@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Nikolaev Dmitry
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dmitry
+last_name: Nikolaev
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: RUDN University
+    url: https://eng.rudn.ru/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,15 +47,16 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Applied Mathematics
+  - Stochastic Modelling
+  - Telecommunications
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Computer Science
+    institution: RUDN University
+    date_start: 2020-09-01
+    date_end: 2024-06-13
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -142,12 +143,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Russian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 90
+  - name: French
+    percent: 5
 
 # Awards.
 #   Add/remove as many awards below as you like.
