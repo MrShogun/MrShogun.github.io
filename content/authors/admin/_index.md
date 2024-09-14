@@ -148,7 +148,7 @@ languages:
   - name: English
     percent: 90
   - name: French
-    percent: 7.5
+    percent: 5
 
 # Awards.
 #   Add/remove as many awards below as you like.
