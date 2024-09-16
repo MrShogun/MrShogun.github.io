@@ -75,6 +75,15 @@ education:
       - Information Security
       - Mathematical Modelling
 
+  - area: MSc Applied Mathematics and Informatics
+    institution: RUDN University
+    date_start: 2024-09-01
+    date_end: 2026-06-30
+    summary: |
+      Courses included:
+      - Mathematical Foundations of Information Security
+      - Wireless Networks Modelling
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
