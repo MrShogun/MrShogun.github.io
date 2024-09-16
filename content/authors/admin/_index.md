@@ -47,6 +47,7 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Queueing Theory
   - Applied Mathematics
   - Stochastic Modelling
   - Telecommunications
@@ -58,32 +59,22 @@ education:
     date_start: 2020-09-01
     date_end: 2024-06-13
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Thesis on analysis of boundary Integrated Access and Backhaul network node using polling service models. Supervised by Prof Yuliya Gaidamaka. Presented papers at 4 conferences with the contributions being published in 2 Scopus journals.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 4.96/5.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Probability Theory and Mathematical Statistics
+      - Stochastic Analysis
+      - Discrete Mathematics
+      - Queueing Theory
+      - Computer Geometry
+      - Finite Graph Theory
+      - Computing Systems, Networks and Telecommunications
+      - Fundamentals of Mathematical Theory of Teletraffic
+      - Information Security
+      - Mathematical Modelling
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -184,4 +175,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dmitry Nikolaev is an author of 7 scientific articles, of which 2 are published in Scopus journals, 1 --- HAC, and 4 --- conference materials. He is also a participant of 5 All-Russian conferences with international participation and 1 international congress. His research interests include queueing theory, mathematical theory of teletrafic and applied probability theory. 
