@@ -86,7 +86,7 @@ education:
       - Information Security
       - Mathematical Modelling
 
-    - area: Professional retraining "Teacher of Mathematics"
+  - area: Professional retraining "Teacher of Mathematics"
     institution: RUDN University
     date_start: 2024-03-01
     date_end: 2024-06-25
@@ -105,7 +105,7 @@ education:
       - Methods of teaching mathematics
       - Pedagogical skills (training)
 
-    - area: Professional retraining "Translator"
+  - area: Professional retraining "Translator"
     institution: RUDN University
     date_start: 2024-03-01
     date_end: 2024-06-25
