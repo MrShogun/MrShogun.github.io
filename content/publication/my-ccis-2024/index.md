@@ -9,6 +9,7 @@ publication_types:
 - paper-conference
 publication: '*Information Technologies and Mathematical Modelling. Queueing Theory
   and Applications*'
+doi: 10.1007/978-3-031-65385-8_8
 abstract: In this paper, a polling service model is used for performance analysis
   of a leaf node in an Integrated Access and Backhaul (IAB) network. is constructed
   in order to analyse the performance measures of the system, which will enable the
