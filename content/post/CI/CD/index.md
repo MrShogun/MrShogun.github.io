@@ -1,31 +1,31 @@
 ---
-title: Непрерывная интеграция и непрерывное развёртывание (CI/CD)
+title: Continuous Integration and Continuous Deployment (CI/CD)
 date: 2024-09-16
 ---
 
-## Непрерывная интеграция и непрерывное развертывание (CI/CD)
+## Continuous Integration and Continuous Deployment (CI/CD)
 
-Непрерывная интеграция (Continuous Integration, CI) и непрерывное развертывание (Continuous Deployment/Delivery, CD) --- это важные процессы в современных методологиях разработки программного обеспечения, особенно важнымм они являются в области DevOps. Эти подходы помогают автоматизировать различные стадии разработки и обеспечивают более быстрый выпуск продуктов с минимизацией ошибок.
+Continuous Integration (CI) and Continuous Deployment/Delivery (CD) are important processes in modern software development methodologies, and are especially important in DevOps. These approaches help to automate various stages of development and ensure faster release of products while minimising errors.
 
-### Непрерывная интеграция (CI)
+### Continuous Integration (CI)
 
-Непрерывная интеграция --- это практика, при которой разработчики часто интегрируют свои изменения в основной кодовой базе, как правило, несколько раз в день. Основная цель CI --- обеспечить раннее обнаружение ошибок, возникающих при слиянии изменений в коде от разных разработчиков.
+Continuous Integration --- is a practice in which developers frequently integrate their changes to the underlying code base, usually several times a day. The main goal of CI --- to provide early detection of bugs that occur when code changes from different developers are merged.
 
-В рамках CI используется система автоматизированного тестирования, которая запускает набор тестов после каждого коммита. Если тесты проходят успешно, изменения интегрируются в основную ветку, что помогает поддерживать стабильное состояние проекта. Примеры CI-систем: Jenkins, GitLab CI, Travis CI.
+CI uses an automated testing system that runs a set of tests after each commit. If the tests are successful, the changes are integrated into the main branch, which helps maintain the stable state of the project. Examples of CI systems include Jenkins, GitLab CI, Travis CI.
 
-### Непрерывное развертывание (CD)
+### Continuous Deployment (CD)
 
-Непрерывное развертывание (Continuous Deployment) и непрерывная доставка (Continuous Delivery) --- это процессы, следующие за CI. Основное различие между этими двумя понятиями заключается в уровне автоматизации.
+Continuous Deployment and Continuous Delivery are processes that follow CI. The main difference between the two is the level of automation.
 
-- **Непрерывная доставка** (Continuous Delivery) предполагает, что изменения в коде после CI автоматически готовы к развертыванию в продакшн-среду. Однако процесс развертывания всё же требует ручного подтверждения.
+- Continuous Delivery** assumes that changes to the code after CI are automatically ready to be deployed to the production environment. However, the deployment process still requires manual validation.
 
-- **Непрерывное развертывание** (Continuous Deployment) идет дальше, полностью автоматизируя процесс доставки кода в продакшн после прохождения всех этапов тестирования. Это позволяет выпускать новые версии продукта быстро и без вмешательства человека.
+- **Continuous Deployment** goes further by fully automating the process of code delivery to the production environment after all testing stages have been passed. This allows new versions of the product to be released quickly and without human intervention.
 
-### Преимущества CI/CD
+### Benefits of CI/CD
 
-- Снижение рисков за счет раннего обнаружения ошибок и конфликтов в коде.
-- Быстрое развертывание новых функций и исправлений.
-- Сокращение времени выхода продукта на рынок.
-- Повышение стабильности и качества программного обеспечения.
+- Risk mitigation through early detection of bugs and conflicts in code.
+- Rapid deployment of new features and patches.
+- Reduced time to market.
+- Increased software stability and quality.
 
-Внедрение CI/CD в процесс разработки позволяет командам быстрее реагировать на изменения требований и выпускать обновления с минимальным риском. Эти практики становятся стандартом для разработки ПО в условиях высокой конкуренции и стремительных изменений в бизнесе.
+Incorporating CI/CD into the development process allows teams to respond faster to changes in requirements and release updates with minimal risk. These practices are becoming the standard for software development in a highly competitive and rapidly changing business environment.
