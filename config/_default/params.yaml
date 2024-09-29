@@ -58,3 +58,8 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+# Different extensions (primarary icons)
+extensions:
+  academicons:
+    enable: true
