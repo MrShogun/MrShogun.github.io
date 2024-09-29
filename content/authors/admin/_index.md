@@ -202,6 +202,7 @@ skills:
       - name: LaTeX
         description: ''
         percent: 70
+        icon_pack: devicon
         icon: latex
       - name: Python
         description: ''
