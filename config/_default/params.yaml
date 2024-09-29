@@ -63,3 +63,5 @@ features:
 extensions:
   academicons:
     enable: true
+  devicon:
+    enable: true
