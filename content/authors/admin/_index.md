@@ -57,9 +57,9 @@ education:
   - area: MSc Applied Mathematics and Informatics
     institution: RUDN University
     date_start: 2024-09-01
-    date_end: 2026-06-30
+    date_end: ''
     summary: |
-      Study at Faculty of Science, Department of Probability Theory and Cyber Security
+      Study at Department of Probability Theory and Cyber Security of Faculty of Science
 
       Courses included:
       - Mathematical Foundations of Information Security
@@ -70,7 +70,7 @@ education:
     date_start: 2020-09-01
     date_end: 2024-06-13
     summary: |
-      Thesis on analysis of boundary Integrated Access and Backhaul network node using polling service models. Supervised by Prof Yuliya Gaidamaka. Presented papers at 4 conferences with the contributions being published in 2 Scopus journals. Studied at Faculty of Science, Department of Probability Theory and Cyber Security
+      Thesis on analysis of boundary Integrated Access and Backhaul network node using polling service models. Supervised by Prof Yuliya Gaidamaka. Presented papers at 4 conferences with the contributions being published in 2 Scopus journals. Studied at Department of Probability Theory and Cyber Security of Faculty of Science 
 
       GPA: 4.96/5.0
       
@@ -107,8 +107,8 @@ education:
 
   - area: Professional retraining "Translator"
     institution: RUDN University
-    date_start: 2024-03-01
-    date_end: 2024-06-25
+    date_start: 2020-09-01
+    date_end: 2024-06-30
     summary: |
       Studied under the programme of additional professional education "Translator" in the areas and specialities of the Faculty of Science (English-Russian) at Department of Foreign Languages of the Faculty of Science.
 
@@ -132,7 +132,7 @@ work:
     date_start: 2024-10-01
     date_end: ''
     summary: |
-      Worked as an executor under the grant of the Russian Science Foundation № 24-19-00804, https://rscf.ru/project/24-19-00804/, on the theme: "Study of Age of Information in the problems of quality assurance of URLLC and mMTC services in 5G wireless networks" at the Department of Probability Theory and Cyber Security of the Institute of Computer Science and Telecommunications, Faculty of Science.
+      Work as an executor under the grant of the Russian Science Foundation № 24-19-00804, https://rscf.ru/project/24-19-00804/, on the theme: "Study of Age of Information in the problems of quality assurance of URLLC and mMTC services in 5G wireless networks" at the Department of Probability Theory and Cyber Security of the Institute of Computer Science and Telecommunications, Faculty of Science.
 
       Responsibilities include:
       - Writing scientific articles on the subject of the grant
