@@ -282,7 +282,7 @@ awards:
     url: ''
     date: '2024-02-15'
     awarder: RUDN University
-    icon: datacamp
+    icon: "custom/rudn-university"
     summary: |
       Second prize winner in the R&D competition for the research "Analysis of data transmission delays for a node of a half-duplex integrated access and backhaul network using a polling queueing system";
 ---
