@@ -198,23 +198,23 @@ skills:
       - name: Julia
         description: ''
         percent: 60
-        icon: academicons/julia
+        icon: julia
       - name: LaTeX
         description: ''
         percent: 70
-        icon: academicons/latex
+        icon: latex
       - name: Python
         description: ''
         percent: 50
-        icon: academicons/python
+        icon: python
       - name: C++
         description: ''
         percent: 25
-        icon: academicons/cplusplus
+        icon: cplusplus
       - name: Java
         description: ''
         percent: 25
-        icon: academicons/java
+        icon: java
       - name: Data Science
         description: ''
         percent: 70
