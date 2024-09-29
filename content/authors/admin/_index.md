@@ -130,7 +130,7 @@ work:
     company_url: https://eng.rudn.ru/
     company_logo: ''
     date_start: 2024-10-01
-    date_end: Present
+    date_end: ''
     summary: |
       Worked as an executor under the grant of the Russian Science Foundation № 24-19-00804, https://rscf.ru/project/24-19-00804/, on the theme: "Study of Age of Information in the problems of quality assurance of URLLC and mMTC services in 5G wireless networks" at the Department of Probability Theory and Cyber Security of the Institute of Computer Science and Telecommunications, Faculty of Science.
 
