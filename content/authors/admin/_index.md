@@ -11,7 +11,7 @@ last_name: Nikolaev
 
 # Status emoji ☕️ 𝛔
 status:
-  icon: 𝞹
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -178,71 +178,129 @@ skills:
         description: Creation and research of network models. Development of mathematical models of teletraffic and queueing systems
         percent: 90
         icon: chart-bar
-      - name: Computer Science
-        description: In-depth knowledge of information technology and telecommunications.
+      - name: Probability theory
+        description: Queueing theory, Stochastic processes, Markov processes
         percent: 80
         icon: circle-stack
-      - name: Stochastic processes
-        description: Analysing temporal and probabilistic characteristics in networks.
+      - name: Computer Science
+        description: In-depth knowledge of information technology and telecommunications. 
         percent: 70
         icon: circle-stack
       - name: Computer simulation
-        description: Using models to simulate and evaluate the performance of wireless networks.
+        description: Using models to simulate and evaluate the performance of telecommunication networks.
         percent: 60
         icon: circle-stack
       - name: Academic writing
         description: Writing articles and reports for international conferences and publications.
         percent: 90
         icon: circle-stack
+      - name: Research
+        description: Gathering and analyzing information from various sources to acquire new insights and solve specific problems.
+        percent: 90
+        icon: circle-stack
+      - name: Data analysis
+        description: Handling large datasets, using mathematical and statistical methods to identify patterns, trends, and draw conclusions.
+        percent: 90
+        icon: circle-stack
+      - name: Object-oriented programming
+        description: Сreating flexible and scalable software structures based on classes and objects.
+        percent: 75
+        icon: circle-stack
   - name: Technical Skills
     items:
+      - name: Data visualisation
+        description: Presenting data in graphical and visual forms to enhance understanding and interpretation.
+        percent: 90
+        icon: circle-stack
+      - name: Reporting
+        description: Structuring analysis and research results into clear and detailed reports, tailored to the target audience.
+        percent: 90
+        icon: circle-stack
       - name: Julia
-        description: ''
+        description: Plots, LinearAlgebra, DifferentialEquations, Random, BenchmarkTools
         percent: 60
         icon: "julia"
       - name: LaTeX
-        description: ''
+        description: Formatting scientific articles, reports, and presentations of high mathematical complexity.
         percent: 70
         icon_pack: devicon
         icon: latex
       - name: Python
-        description: ''
+        description: Matplotlib, Numpy, Pandas
         percent: 50
         icon: python
       - name: C++
-        description: ''
+        description: Proficiency allows for developing basic programs and algorithms.
         percent: 25
         icon: cplusplus
       - name: Java
-        description: ''
+        description: Proficiency enables work on basic projects and architectural design studies.
         percent: 25
         icon: java
       - name: Data Science
-        description: ''
+        description: Experience in data handling, including collection, cleaning, analysis, and visualization.
         percent: 70
         icon: chart-bar
       - name: SQL
-        description: ''
+        description: Proficiency enables writing queries, managing data, and performing analytical tasks.
         percent: 50
         icon: circle-stack
+  - name: Soft skills
+    items:
+      - name: Writing and communication
+        description: Clearly and effectively express ideas in written and verbal form to audiences with varying levels of expertise.
+        percent: 90
+        icon: chart-bar
+      - name: Analytical and critical thinking
+        description: Analyzing complex data, identify patterns, critically evaluating information and methodologies, and draw well-founded conclusions.
+        percent: 90
+        icon: chart-bar
+      - name: Organisation and time management
+        description: Proficient in planning tasks, prioritizing activities, and managing time effectively to meet deadlines.
+        percent: 50
+        icon: chart-bar
+      - name: Collaboration and teamwork
+        description: Working within teams, respecting diverse opinions, and actively contributing to the achievement of common goals.
+        percent: 60
+        icon: chart-bar
+      - name: Adaptability and flexibility
+        description: Quickly adapt to new conditions, tasks, adjusting approaches to achieve better outcomes, and changes in the work environment.
+        percent: 75
+        icon: chart-bar
+      - name: Problem-solving
+        description: Proficient in solving complex and non-standard problems, developing practical solutions for various challenges.
+        percent: 80
+        icon: chart-bar
+      - name: Attention to detail
+        description: Noticing small details that can impact outcomes, ensuring high-quality task execution.
+        percent: 75
+        icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Karate
-        description: ''
-        percent: 60
+        description: Karate helps me enhance self-control, teaches resilience and endurance. Multiple medallist in various martial arts competitions, including world and Russian championships.
+        percent: 90
+        icon: 🥋
+      - name: Sports
+        description: Sports, in general, help me maintain a healthy balance between mental and physical activity. 
+        percent: 95
         icon: 🥋
       - name: Travelling
-        description: ''
-        percent: 100
+        description: Traveling broadens my worldview and enhances flexibility in thinking, which positively impacts my creative and scientific approach.
+        percent: 85
         icon: cat
       - name: Education
-        description: ''
+        description: Education is a source of continuous self-improvement, both professional and personal
         percent: 80
         icon: camera
+      - name: Languages
+        description: Learning languages motivates me to broaden my cultural and professional horizons.
+        percent: 60
+        icon: camera
       - name: Science
-        description: ''
+        description: I find inspiration in scientific research and strive to explore unknown areas and create new knowledge that will help address global challenges.
         percent: 80
         icon: camera
 
