@@ -11,7 +11,7 @@ last_name: Nikolaev
 
 # Status emoji ☕️ 𝛔
 status:
-  icon: <span style="color: white; background-color: black; font-weight: bold;">σ</span>
+  icon: 𝞹
 
 # Is this the primary user of the site?
 superuser: true
