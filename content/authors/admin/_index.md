@@ -9,9 +9,9 @@ title: Nikolaev Dmitry
 first_name: Dmitry
 last_name: Nikolaev
 
-# Status emoji ☕️
+# Status emoji ☕️ 𝛔
 status:
-  icon: σ
+  icon: \textcolor{white}{$\boldsymbol{\sigma}$}
 
 # Is this the primary user of the site?
 superuser: true
@@ -232,7 +232,7 @@ skills:
       - name: Karate
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: 🥋
       - name: Travelling
         description: ''
         percent: 100
