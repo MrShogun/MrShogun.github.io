@@ -198,7 +198,7 @@ skills:
       - name: Julia
         description: ''
         percent: 60
-        icon: julia
+        icon: "julia"
       - name: LaTeX
         description: ''
         percent: 70
