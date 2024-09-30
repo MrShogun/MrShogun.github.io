@@ -237,10 +237,6 @@ skills:
         description: Proficiency enables work on basic projects and architectural design studies.
         percent: 25
         icon: java
-      - name: Data Science
-        description: Experience in data handling, including collection, cleaning, analysis, and visualization.
-        percent: 70
-        icon: chart-bar
       - name: SQL
         description: Proficiency enables writing queries, managing data, and performing analytical tasks.
         percent: 50
