@@ -11,7 +11,7 @@ last_name: Nikolaev
 
 # Status emoji ☕️ 𝛔
 status:
-  icon: \textcolor{white}{$\boldsymbol{\sigma}$}
+  icon: <span style="color: white; background-color: black; font-weight: bold;">σ</span>
 
 # Is this the primary user of the site?
 superuser: true
