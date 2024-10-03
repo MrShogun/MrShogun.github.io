@@ -345,7 +345,7 @@ awards:
     url: ''
     date: '2024-02-15'
     awarder: RUDN University
-    icon: "custom/rudn-university"
+    icon: "assets/media/custom/rudn-university.svg"
     summary: |
       Second prize winner in the R&D competition for the research "Analysis of data transmission delays for a node of a half-duplex integrated access and backhaul network using a polling queueing system".
   - title: Winner's Diploma of the in-person competition of research works of the School of Young Scientists in ITMM 2023 conference
