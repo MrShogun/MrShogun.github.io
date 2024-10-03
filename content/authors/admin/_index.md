@@ -317,35 +317,35 @@ awards:
     url: https://prom-2024.rudn.ru/fmien/nikolaev-d.html
     date: '2024-06-30'
     awarder: RUDN University
-    icon: "assets/media/rudn-university.svg"
+    icon: "brands/rudn-university"
     summary: |
       I got the RUDN University 2024 Best Graduate Award during my Bachelor's degree in Mathematics and Computer Science at Faculty of Science for my academic excellence and successful first research experience.
   - title: Best paper award in ITTMM 2024 conference
     url: ''
     date: '2024-04-12'
     awarder: RUDN University
-    icon: custom/rudn-university.svg
+    icon: brands/rudn-university.svg
     summary: |
        Best papper award during the 14th International Conference on Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems 2024 (ITTMM 2024), Moscow, Russia, for paper entitled: "Construction of a model of the relay node of the integrated access and backhaul network as a polling system with two queues".
   - title: RUDN-ON 2024 Winner in Informatics
     url: ''
     date: '2024-02-02'
     awarder: RUDN University
-    icon: custom/rudn-university
+    icon: brands/rudn-university
     summary: |
       Winner of the RUDN-ON 2024 Universiade in the Informatics subject area. Obtained a winner's diploma.
   - title: RUDN-ON 2024 Prize-Winner in Linguistics
     url: ''
     date: '2024-02-02'
     awarder: RUDN University
-    icon: "assets/media/custom/rudn-university.svg"
+    icon: "assets/media/brands/rudn-university.svg"
     summary: |
       Prize-Winner of the RUDN-ON 2024 Universiade in the subject area "Linguistics: Translation and Translation Studies". Obtained a prize-winner diploma.
   - title: II degree diploma in the R&D competition
     url: ''
     date: '2024-02-15'
     awarder: RUDN University
-    icon: "custom/rudn-university.svg"
+    icon: brands/rudn-university
     summary: |
       Second prize winner in the R&D competition for the research "Analysis of data transmission delays for a node of a half-duplex integrated access and backhaul network using a polling queueing system".
   - title: Winner's Diploma of the in-person competition of research works of the School of Young Scientists in ITMM 2023 conference
