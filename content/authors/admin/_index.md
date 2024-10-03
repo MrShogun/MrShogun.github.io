@@ -177,54 +177,54 @@ skills:
       - name: Mathematical modelling
         description: Creation and research of network models. Development of mathematical models of teletraffic and queueing systems
         percent: 90
-        icon: chart-bar
+        icon: brands/mathematics
       - name: Probability theory
         description: Queueing theory, Stochastic processes, Markov processes
         percent: 80
-        icon: circle-stack
+        icon: brands/probability
       - name: Computer Science
         description: In-depth knowledge of information technology and telecommunications. 
         percent: 70
-        icon: circle-stack
+        icon: brands/computer-science
       - name: Computer simulation
         description: Using models to simulate and evaluate the performance of telecommunication networks.
         percent: 60
-        icon: circle-stack
+        icon: brands/computer-simulation
       - name: Academic writing
         description: Writing articles and reports for international conferences and publications.
         percent: 90
-        icon: circle-stack
+        icon: brands/academic-writing
       - name: Research
         description: Gathering and analyzing information from various sources to acquire new insights and solve specific problems.
         percent: 90
-        icon: circle-stack
+        icon: brands/research
       - name: Data analysis
         description: Handling large datasets, using mathematical and statistical methods to identify patterns, trends, and draw conclusions.
         percent: 90
-        icon: circle-stack
+        icon: brands/data-analysis
       - name: Object-oriented programming
         description: Сreating flexible and scalable software structures based on classes and objects.
         percent: 75
-        icon: circle-stack
+        icon: brands/object-oriented-programming
   - name: Technical Skills
     items:
       - name: Data visualisation
         description: Presenting data in graphical and visual forms to enhance understanding and interpretation.
         percent: 90
-        icon: circle-stack
+        icon: brands/data-graphics-analysis
       - name: Reporting
         description: Structuring analysis and research results into clear and detailed reports, tailored to the target audience.
         percent: 90
-        icon: circle-stack
+        icon: brands/reporting
       - name: Julia
         description: Plots, LinearAlgebra, DifferentialEquations, Random, BenchmarkTools
         percent: 60
-        icon: "julia"
+        icon: brands/julia
       - name: LaTeX
         description: Formatting scientific articles, reports, and presentations of high mathematical complexity.
         percent: 70
         icon_pack: devicon
-        icon: latex
+        icon: brands/latex
       - name: Python
         description: Matplotlib, Numpy, Pandas
         percent: 50
@@ -232,11 +232,11 @@ skills:
       - name: C++
         description: Proficiency allows for developing basic programs and algorithms.
         percent: 25
-        icon: cplusplus
+        icon: brands/cplusplus
       - name: Java
         description: Proficiency enables work on basic projects and architectural design studies.
         percent: 25
-        icon: java
+        icon: brands/java
       - name: SQL
         description: Proficiency enables writing queries, managing data, and performing analytical tasks.
         percent: 50
@@ -246,31 +246,31 @@ skills:
       - name: Writing and communication
         description: Clearly and effectively express ideas in written and verbal form to audiences with varying levels of expertise.
         percent: 90
-        icon: chart-bar
+        icon: brands/communication
       - name: Analytical and critical thinking
         description: Analyzing complex data, identify patterns, critically evaluating information and methodologies, and draw well-founded conclusions.
         percent: 90
-        icon: chart-bar
+        icon: brands/critical-thinking
       - name: Organisation and time management
         description: Proficient in planning tasks, prioritizing activities, and managing time effectively to meet deadlines.
         percent: 50
-        icon: chart-bar
+        icon: brands/time-management
       - name: Collaboration and teamwork
         description: Working within teams, respecting diverse opinions, and actively contributing to the achievement of common goals.
         percent: 60
-        icon: chart-bar
+        icon: brands/teamwork
       - name: Adaptability and flexibility
         description: Quickly adapt to new conditions, tasks, adjusting approaches to achieve better outcomes, and changes in the work environment.
         percent: 75
-        icon: chart-bar
+        icon: brands/adaptation
       - name: Problem-solving
         description: Proficient in solving complex and non-standard problems, developing practical solutions for various challenges.
         percent: 80
-        icon: chart-bar
+        icon: brands/problem-solving
       - name: Attention to detail
         description: Noticing small details that can impact outcomes, ensuring high-quality task execution.
         percent: 75
-        icon: chart-bar
+        icon: brands/search
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -278,27 +278,27 @@ skills:
       - name: Karate
         description: Karate helps me enhance self-control, teaches resilience and endurance. Multiple medallist in various martial arts competitions, including world and Russian championships.
         percent: 90
-        icon: 🥋
+        icon: brands/karate
       - name: Sports
         description: Sports, in general, help me maintain a healthy balance between mental and physical activity. 
         percent: 95
-        icon: 🥋
+        icon: brands/sport
       - name: Travelling
         description: Traveling broadens my worldview and enhances flexibility in thinking, which positively impacts my creative and scientific approach.
         percent: 85
-        icon: cat
+        icon: brands/travelling
       - name: Education
         description: Education is a source of continuous self-improvement, both professional and personal
         percent: 80
-        icon: camera
+        icon: brands/education
       - name: Languages
         description: Learning languages motivates me to broaden my cultural and professional horizons.
         percent: 60
-        icon: camera
+        icon: brands/language
       - name: Science
         description: I find inspiration in scientific research and strive to explore unknown areas and create new knowledge that will help address global challenges.
         percent: 80
-        icon: camera
+        icon: brands/science
 
 languages:
   - name: Russian
@@ -324,7 +324,7 @@ awards:
     url: ''
     date: '2024-04-12'
     awarder: RUDN University
-    icon: brands/rudn-university.svg
+    icon: brands/rudn-university
     summary: |
        Best papper award during the 14th International Conference on Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems 2024 (ITTMM 2024), Moscow, Russia, for paper entitled: "Construction of a model of the relay node of the integrated access and backhaul network as a polling system with two queues".
   - title: RUDN-ON 2024 Winner in Informatics
@@ -338,7 +338,7 @@ awards:
     url: ''
     date: '2024-02-02'
     awarder: RUDN University
-    icon: "assets/media/brands/rudn-university.svg"
+    icon: brands/rudn-university
     summary: |
       Prize-Winner of the RUDN-ON 2024 Universiade in the subject area "Linguistics: Translation and Translation Studies". Obtained a prize-winner diploma.
   - title: II degree diploma in the R&D competition
@@ -352,7 +352,7 @@ awards:
     url: ''
     date: '2023-12-09'
     awarder: Tomsk State University
-    icon: ''
+    icon: brands/tsu
     summary: |
        Winner of the diploma of the in-person competition of research works of the School of Young Scientists within the framework of the International Conference Information Technology and Mathematical Modelling 2023 (ITMM 23) named after A. F. Terpugov with the work titled: "Leaf node polling model analysis in an integrated access and backhaul network".
 ---
