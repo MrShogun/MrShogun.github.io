@@ -219,12 +219,11 @@ skills:
       - name: Julia
         description: Plots, LinearAlgebra, DifferentialEquations, Random, BenchmarkTools
         percent: 60
-        icon: brands/julia
+        icon: devicon/julia
       - name: LaTeX
         description: Formatting scientific articles, reports, and presentations of high mathematical complexity.
         percent: 70
-        icon_pack: devicon
-        icon: brands/latex
+        icon: devicon/latex
       - name: Python
         description: Matplotlib, Numpy, Pandas
         percent: 50
@@ -236,7 +235,7 @@ skills:
       - name: Java
         description: Proficiency enables work on basic projects and architectural design studies.
         percent: 25
-        icon: brands/java
+        icon: devicon/java
       - name: SQL
         description: Proficiency enables writing queries, managing data, and performing analytical tasks.
         percent: 50
