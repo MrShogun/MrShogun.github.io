@@ -205,7 +205,7 @@ skills:
       - name: Object-oriented programming
         description: Сreating flexible and scalable software structures based on classes and objects.
         percent: 75
-        icon: brands/object-oriented-programming
+        icon: brands/oop
   - name: Technical Skills
     items:
       - name: Data visualisation
