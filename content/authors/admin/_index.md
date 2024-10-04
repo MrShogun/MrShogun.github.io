@@ -265,7 +265,7 @@ skills:
       - name: Problem-solving
         description: Proficient in solving complex and non-standard problems, developing practical solutions for various challenges.
         percent: 80
-        icon: brands/problem-solving
+        icon: brands/idea
       - name: Attention to detail
         description: Noticing small details that can impact outcomes, ensuring high-quality task execution.
         percent: 75
