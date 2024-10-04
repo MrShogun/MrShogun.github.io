@@ -265,7 +265,7 @@ skills:
       - name: Problem-solving
         description: Proficient in solving complex and non-standard problems, developing practical solutions for various challenges.
         percent: 80
-        icon: brands/idea
+        icon: brands/problem-solving
       - name: Attention to detail
         description: Noticing small details that can impact outcomes, ensuring high-quality task execution.
         percent: 75
@@ -277,7 +277,7 @@ skills:
       - name: Karate
         description: Karate helps me enhance self-control, teaches resilience and endurance. Multiple medallist in various martial arts competitions, including world and Russian championships.
         percent: 90
-        icon: brands/karate
+        icon: devicon/karatelabs
       - name: Sports
         description: Sports, in general, help me maintain a healthy balance between mental and physical activity. 
         percent: 95
