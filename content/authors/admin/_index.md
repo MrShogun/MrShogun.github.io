@@ -277,7 +277,7 @@ skills:
       - name: Karate
         description: Karate helps me enhance self-control, teaches resilience and endurance. Multiple medallist in various martial arts competitions, including world and Russian championships.
         percent: 90
-        icon: brands/karate
+        icon: :martial_arts_uniform:
       - name: Sports
         description: Sports, in general, help me maintain a healthy balance between mental and physical activity. 
         percent: 95
