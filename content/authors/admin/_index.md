@@ -185,7 +185,7 @@ skills:
       - name: Computer Science
         description: In-depth knowledge of information technology and telecommunications. 
         percent: 70
-        icon: brands/computer-science
+        icon: brands/laptop-code-solid
       - name: Computer simulation
         description: Using models to simulate and evaluate the performance of telecommunication networks.
         percent: 60
@@ -211,7 +211,7 @@ skills:
       - name: Data visualisation
         description: Presenting data in graphical and visual forms to enhance understanding and interpretation.
         percent: 90
-        icon: brands/data-graphics-analysis
+        icon: brands/data-visualisation
       - name: Reporting
         description: Structuring analysis and research results into clear and detailed reports, tailored to the target audience.
         percent: 90
@@ -223,7 +223,7 @@ skills:
       - name: LaTeX
         description: Formatting scientific articles, reports, and presentations of high mathematical complexity.
         percent: 70
-        icon: devicon/latex-original
+        icon: devicon/latex
       - name: Python
         description: Matplotlib, Numpy, Pandas
         percent: 50
@@ -269,7 +269,7 @@ skills:
       - name: Attention to detail
         description: Noticing small details that can impact outcomes, ensuring high-quality task execution.
         percent: 75
-        icon: brands/search
+        icon: brands/attention
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
