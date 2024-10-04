@@ -177,7 +177,7 @@ skills:
       - name: Mathematical modelling
         description: Creation and research of network models. Development of mathematical models of teletraffic and queueing systems
         percent: 90
-        icon: brands/mathematics
+        icon: heroicon/variable
       - name: Probability theory
         description: Queueing theory, Stochastic processes, Markov processes
         percent: 80
@@ -223,7 +223,7 @@ skills:
       - name: LaTeX
         description: Formatting scientific articles, reports, and presentations of high mathematical complexity.
         percent: 70
-        icon: devicon/latex
+        icon: <i class="devicon-latex-original"></i>
       - name: Python
         description: Matplotlib, Numpy, Pandas
         percent: 50
