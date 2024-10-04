@@ -177,7 +177,7 @@ skills:
       - name: Mathematical modelling
         description: Creation and research of network models. Development of mathematical models of teletraffic and queueing systems
         percent: 90
-        icon: heroicon/variable
+        icon: hero/variable
       - name: Probability theory
         description: Queueing theory, Stochastic processes, Markov processes
         percent: 80
@@ -223,7 +223,7 @@ skills:
       - name: LaTeX
         description: Formatting scientific articles, reports, and presentations of high mathematical complexity.
         percent: 70
-        icon: <i class="devicon-latex-original"></i>
+        icon: devicon/latex-original
       - name: Python
         description: Matplotlib, Numpy, Pandas
         percent: 50
@@ -245,7 +245,7 @@ skills:
       - name: Writing and communication
         description: Clearly and effectively express ideas in written and verbal form to audiences with varying levels of expertise.
         percent: 90
-        icon: brands/communication
+        icon: hero/chat-bubble-left-right
       - name: Analytical and critical thinking
         description: Analyzing complex data, identify patterns, critically evaluating information and methodologies, and draw well-founded conclusions.
         percent: 90
@@ -293,11 +293,11 @@ skills:
       - name: Languages
         description: Learning languages motivates me to broaden my cultural and professional horizons.
         percent: 60
-        icon: brands/language
+        icon: hero/language
       - name: Science
         description: I find inspiration in scientific research and strive to explore unknown areas and create new knowledge that will help address global challenges.
         percent: 80
-        icon: brands/science
+        icon: hero/beaker
 
 languages:
   - name: Russian
