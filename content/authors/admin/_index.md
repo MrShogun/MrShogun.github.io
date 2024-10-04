@@ -129,7 +129,7 @@ work:
   - position: Research assistant
     company_name: RUDN University
     company_url: https://eng.rudn.ru/
-    company_logo: ''
+    company_logo: brands/rudn-university
     date_start: 2024-10-01
     date_end: ''
     summary: |
@@ -144,7 +144,7 @@ work:
   - position: Research assistant
     company_name: RUDN University
     company_url: https://eng.rudn.ru/
-    company_logo: ''
+    company_logo: brands/rudn-university
     date_start: 2023-10-19
     date_end: 2024-10-01
     summary: |
@@ -159,7 +159,7 @@ work:
   - position: Research assistant
     company_name: RUDN University
     company_url: https://eng.rudn.ru/
-    company_logo: ''
+    company_logo: brands/rudn-university
     date_start: 2024-07-29
     date_end: 2024-10-01
     summary: |
@@ -232,7 +232,7 @@ skills:
       - name: C++
         description: Proficiency allows for developing basic programs and algorithms.
         percent: 25
-        icon: brands/cplusplus
+        icon: devicon/cplusplus
       - name: Java
         description: Proficiency enables work on basic projects and architectural design studies.
         percent: 25
