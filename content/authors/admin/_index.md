@@ -177,7 +177,7 @@ skills:
       - name: Mathematical modelling
         description: Creation and research of network models. Development of mathematical models of teletraffic and queueing systems
         percent: 90
-        icon: hero/variable
+        icon: brands/infinity
       - name: Probability theory
         description: Queueing theory, Stochastic processes, Markov processes
         percent: 80
