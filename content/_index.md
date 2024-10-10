@@ -35,24 +35,32 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I focus on applied mathematics and telecommunications, particularly in the areas of queueing theory, stochastic modeling, and teletraffic systems. My work includes developing mathematical models for analyzing network performance, optimizing system processes, and solving real-world telecommunication challenges. I actively collaborate with other researchers and participate in international conferences to present findings and share insights.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Feel free to reach out for collaborations or discussions on mathematical theory applications and system optimization.
     design:
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: abstract-galaxy-background.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  #- block: collection
+  #  id: papers
+  #  content:
+  #    title: Featured Publications
+  #    filters:
+  #      folders:
+  #        - publication
+  #      featured_only: true
+  #  design:
+  #    view: article-grid
+  #    columns: 2
   - block: collection
     content:
       title: Recent Publications
@@ -62,6 +70,16 @@ sections:
           - publication
         exclude_featured: false
     design:
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: abstract-splashed-watercolor-textured-background.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
       view: citation
   - block: collection
     id: talks
@@ -75,7 +93,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: abstract-dark-blue-polygonal-background.svg
+          filename: universe-watercolors.svg
           filters:
             brightness: 1.0
           size: cover
@@ -107,6 +125,16 @@ sections:
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: watercolor-purple-outer-space-background.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
       # Choose a layout view
       view: date-title-summary
       # Reduce spacing

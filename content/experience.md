@@ -18,7 +18,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: abstract-dark-blue-polygonal-background.svg
+          filename: digital-technology-background-vector-with-hexagon-border-dark-purple-tone.svg
           filters:
             brightness: 1.0
           size: cover
@@ -37,7 +37,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: abstract-dark-blue-polygonal-background.svg
+          filename: digital-technology-background-vector-with-hexagon-border-dark-purple-tone.svg
           filters:
             brightness: 1.0
           size: cover
@@ -53,7 +53,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: abstract-dark-blue-polygonal-background.svg
+          filename: digital-technology-background-vector-with-hexagon-border-dark-purple-tone.svg
           filters:
             brightness: 1.0
           size: cover
@@ -63,4 +63,15 @@ sections:
     content:
       title: Languages
       username: admin
+    design:
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: dark-background-with-elegant-wavy-shapes-4afdffc5e36c744992adc954cc7e5756.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
 ---
