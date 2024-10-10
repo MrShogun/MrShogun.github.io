@@ -49,16 +49,6 @@ sections:
 
         Feel free to reach out for collaborations or discussions on mathematical theory applications and system optimization.
     design:
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: abstract-galaxy-background.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
       columns: '1'
   #- block: collection
   #  id: papers
@@ -80,16 +70,6 @@ sections:
           - publication
         exclude_featured: false
     design:
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: abstract-splashed-watercolor-textured-background.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
       view: citation
   - block: collection
     id: talks
@@ -98,17 +78,6 @@ sections:
       filters:
         folders:
           - event
-    design:
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: universe-watercolors.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
       view: article-grid
       columns: 1
   - block: collection
@@ -135,16 +104,6 @@ sections:
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: watercolor-purple-outer-space-background.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
       # Choose a layout view
       view: date-title-summary
       # Reduce spacing

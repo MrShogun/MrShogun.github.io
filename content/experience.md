@@ -5,6 +5,16 @@ type: landing
 
 design:
   spacing: '5rem'
+  background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: digital-technology-background-vector-with-hexagon-border-dark-purple-tone.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -14,16 +24,6 @@ sections:
     content:
       username: admin
     design:
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: digital-technology-background-vector-with-hexagon-border-dark-purple-tone.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
@@ -33,45 +33,13 @@ sections:
       title: Skills & Hobbies
       username: admin
     design:
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: digital-technology-background-vector-with-hexagon-border-dark-purple-tone.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
       show_skill_percentage: false
   - block: resume-awards
     content:
       title: Awards
       username: admin
-    design:
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: digital-technology-background-vector-with-hexagon-border-dark-purple-tone.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
   - block: resume-languages
     content:
       title: Languages
       username: admin
-    design:
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: abstract-cool-purple-blurry-lights-background-image.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
 ---
