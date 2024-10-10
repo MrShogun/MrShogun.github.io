@@ -45,7 +45,7 @@ profiles:
   #- icon: 
   #  url: https://elibrary.ru/project_user_office.asp
   #  label: eLIBRARY
-  - icon: brands/researchgate
+  - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Dmitry-Nikolaev-13
     label: Research Gate
   - icon: academicons/google-scholar
