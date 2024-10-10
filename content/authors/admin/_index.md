@@ -42,9 +42,9 @@ profiles:
   - icon: academicons/researcherid
     url: https://www.webofscience.com/wos/author/record/LEM-8084-2024
     label: WoS ResearcherID
-  #- icon: 
-  #  url: https://elibrary.ru/project_user_office.asp
-  #  label: eLIBRARY
+  - icon: brands/elibrary
+    url: https://elibrary.ru/project_user_office.asp
+    label: eLIBRARY
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Dmitry-Nikolaev-13
     label: Research Gate

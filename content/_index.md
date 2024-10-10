@@ -71,6 +71,16 @@ sections:
         folders:
           - event
     design:
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: lavender-acrylic-swirl-marble-twist-texture-background.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
       view: article-grid
       columns: 1
   - block: collection
