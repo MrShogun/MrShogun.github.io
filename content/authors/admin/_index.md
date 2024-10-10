@@ -30,21 +30,30 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://github.com/MrShogun
+    label: GitHub
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0001-5885-8566
+    label: ORCID
+  - icon: academicons/scopus
+    url: https://www.scopus.com/authid/detail.uri?authorId=58971412800
+    label: Scopus
+  - icon: academicons/researcherid
+    url: https://www.webofscience.com/wos/author/record/LEM-8084-2024
+    label: WoS ResearcherID
+  #- icon: 
+  #  url: https://elibrary.ru/project_user_office.asp
+  #  label: eLIBRARY
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Dmitry-Nikolaev-13
+    label: Research Gate
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=ru&user=0LK9tFgAAAAJ
+    label: Google Scholar
+  - icon: academicons/academia
+    url: https://rudn.academia.edu/DmitryNikolaev
+    label: Academia
 
 interests:
   - Queueing Theory
