@@ -68,7 +68,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: dark-background-with-elegant-wavy-shapes-4afdffc5e36c744992adc954cc7e5756.svg
+          filename: abstract-cool-purple-blurry-lights-background-image.svg
           filters:
             brightness: 1.0
           size: cover
