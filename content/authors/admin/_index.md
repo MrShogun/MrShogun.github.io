@@ -42,7 +42,7 @@ profiles:
   - icon: academicons/researcherid
     url: https://www.webofscience.com/wos/author/record/LEM-8084-2024
     label: WoS ResearcherID
-  - icon: brands/elibrary
+  - icon: academicons/obp
     url: https://elibrary.ru/project_user_office.asp
     label: eLIBRARY
   - icon: academicons/researchgate
@@ -54,6 +54,12 @@ profiles:
   - icon: academicons/academia
     url: https://rudn.academia.edu/DmitryNikolaev
     label: Academia
+  - icon: academicons/arxiv
+    url: https://arxiv.org/a/0009-0001-5885-8566.html
+    label: arXiv
+  - icon: academicons/mendeley
+    url: https://www.mendeley.com/search/
+    label: Mendeley
 
 interests:
   - Queueing Theory
