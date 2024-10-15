@@ -6,8 +6,8 @@ event_url: https://icam.tsu.ru/
 
 location: Park Hotel Aya
 address:
-  street: Altai district, village Katun, Lake Aya
-  city: Moscow
+  street: Lake Aya, village Katun
+  city: Altai district
   region: Altai Krai
   postcode: '659635'
   country: Russia
@@ -19,7 +19,7 @@ abstract: The conference is devoted to applied and fundamental aspects of comput
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-09-16'
 date_end: '2024-09-20'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -32,9 +32,8 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
+image:
+  focal_point: Right
 
 #links:
 #  - icon: twitter
