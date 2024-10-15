@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Skills'
 date: 2024-10-15
 type: landing
 
