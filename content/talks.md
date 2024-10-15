@@ -11,7 +11,7 @@ design:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: dark-purple-hand-painted-alcohol-ink-background.svg
+          filename: abstract-splashed-watercolor-textured-background.svg
           filters:
             brightness: 1.0
           size: cover
