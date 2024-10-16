@@ -61,7 +61,7 @@ profiles:
     url: https://www.mendeley.com/search/
     label: Mendeley
   - icon: hero/at-symbol
-    url: nikolaev-di@rudn.ru
+    url: mailto:nikolaev-di@rudn.ru
     label: Email
 
 interests:
