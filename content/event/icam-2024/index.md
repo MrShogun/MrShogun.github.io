@@ -34,7 +34,7 @@ featured: false
 
 image:
   filename: 'icam-2024.jpg'
-  caption: 'Presentation instance'
+  caption: 'ICAM-2024 presentation instance'
   focal_point: Right
 
 design:
