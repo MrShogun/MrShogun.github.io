@@ -33,6 +33,8 @@ tags: []
 featured: false
 
 image:
+  filename: 'icam-2024.jpg'
+  caption: 'Presentation instance'
   focal_point: Right
 
 #links:
