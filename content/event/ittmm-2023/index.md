@@ -13,7 +13,7 @@ address:
   country: Russia
 
 summary: Participated in an international conference with a report on the results of my research.
-abstract: The Conference is supposed to take place in the scientific areas formed during the previous conferences of the Faculty of Science of RUDN University and its traditional partners in conducting academician scientific events. **Areas of research:** Teletraffic theory and its applications; Next-generation communication networks: management, quality, architecture; Applied information systems; Mathematical modeling and simulation; Distributed high-performance computing and Big-data.
+abstract: The Conference is supposed to take place in the scientific areas formed during the previous conferences of the Faculty of Science of RUDN University and its traditional partners in conducting academician scientific events. **Areas of research:** Teletraffic theory and its applications; Next-generation communication networks:management, quality, architecture; Applied information systems; Mathematical modeling and simulation; Distributed high-performance computing and Big-data.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
