@@ -12,9 +12,9 @@ links:
     url: 'https://www.facebook.com/sharer.php?u={url}&t={title}'
     title: Facebook
     icon: brands/facebook
-    enable: true
+    enable: false
   - id: email
-    url: 'mailto:?subject={title}&body={nikolaev-di@rudn.ru}'
+    url: 'mailto:nikolaev_di@pfur.ru?subject={title}&body={Dear Dmitry Nikolaev! <Your message> Best wishes, Your Name.}'
     title: Email
     icon: hero/at-symbol
     enable: true

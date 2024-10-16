@@ -2,7 +2,7 @@
 title: ICAM-2024 Conference participation
 
 event: The XV International Conference Computer-Aided Technologies in Applied Mathematics (ICAM 2024)
-event_url: https://icam.tsu.ru/
+event_url: https://icam.tsu.ru/?setlang=en
 
 location: Park Hotel Aya
 address:

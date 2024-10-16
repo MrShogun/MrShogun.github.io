@@ -61,7 +61,7 @@ profiles:
     url: https://www.mendeley.com/search/
     label: Mendeley
   - icon: hero/at-symbol
-    url: mailto:nikolaev-di@rudn.ru
+    url: 'mailto:nikolaev-di@rudn.ru?body={Dear Dmitry Nikolaev! <Your message> Best wishes, Your Name.}'
     label: Email
 
 interests:
