@@ -37,6 +37,20 @@ image:
   caption: 'Presentation instance'
   focal_point: Right
 
+design:
+  # Default section spacing
+  spacing: "6rem"
+  background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: abstract-splashed-watercolor-textured-background.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
+
 #links:
 #  - icon: twitter
 #    icon_pack: fab
