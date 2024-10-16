@@ -14,7 +14,7 @@ links:
     icon: brands/facebook
     enable: true
   - id: email
-    url: 'mailto:?subject={title}&body={url}'
+    url: 'mailto:?subject={title}&body={nikolaev-di@rudn.ru}'
     title: Email
     icon: hero/at-symbol
     enable: true

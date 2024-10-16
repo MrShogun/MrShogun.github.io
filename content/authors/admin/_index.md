@@ -60,6 +60,9 @@ profiles:
   - icon: academicons/mendeley
     url: https://www.mendeley.com/search/
     label: Mendeley
+  - icon: hero/at-symbol
+    url: nikolaev-di@rudn.ru
+    label: Email
 
 interests:
   - Queueing Theory
