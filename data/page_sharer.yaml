@@ -22,11 +22,26 @@ links:
     url: 'https://www.linkedin.com/shareArticle?url={url}&title={title}'
     title: LinkedIn
     icon: brands/linkedin
-    enable: true
+    enable: false
   - id: whatsapp
     url: 'whatsapp://send?text={title}%20{url}'
     title: WhatsApp
     icon: brands/whatsapp
+    enable: false
+  - id: git
+    url: 'https://github.com/MrShogun'
+    title: GitHub
+    icon: brands/github
+    enable: true
+  - id: academia
+    url: 'https://rudn.academia.edu/DmitryNikolaev'
+    title: Academia
+    icon: academicons/academia
+    enable: true
+  - id: researchgate
+    url: 'https://www.researchgate.net/profile/Dmitry-Nikolaev-13'
+    title: Research Gate
+    icon: academicons/researchgate
     enable: true
 #  - id: weibo
 #    url: 'https://service.weibo.com/share/share.php?url={url}&title={title}'
