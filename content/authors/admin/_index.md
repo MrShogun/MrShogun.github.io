@@ -343,7 +343,7 @@ awards:
     awarder: RUDN University
     icon: brands/rudn-university
     summary: |
-       Best papper award during the 14th International Conference on Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems 2024 (ITTMM 2024), Moscow, Russia, for paper entitled: "Construction of a model of the relay node of the integrated access and backhaul network as a polling system with two queues" {{% staticref "uploads/ittmm-2024-best-paper-award.pdf" %}}View Award{{% /staticref %}}.
+       Best papper award during the 14th International Conference on Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems 2024 (ITTMM 2024), Moscow, Russia, for paper entitled: "Construction of a model of the relay node of the integrated access and backhaul network as a polling system with two queues".
   - title: RUDN-ON 2024 Winner in Informatics
     url: ''
     date: '2024-02-02'
@@ -366,13 +366,10 @@ awards:
     summary: |
       Second prize winner in the R&D competition for the research "Analysis of data transmission delays for a node of a half-duplex integrated access and backhaul network using a polling queueing system".
   - title: Winner's Diploma of the in-person competition of research works of the School of Young Scientists in ITMM 2023 conference
-    url: ''
+    url: https://itmmconf.tsu.ru/sites/default/files/Certificates/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf
     date: '2023-12-09'
     awarder: Tomsk State University
     icon: brands/tsu
-    button:
-        text: View Diploma
-        url: uploads/itmm-2023-diploma.pdf
     summary: |
        Winner of the diploma of the in-person competition of research works of the School of Young Scientists within the framework of the International Conference Information Technology and Mathematical Modelling 2023 (ITMM 23) named after A. F. Terpugov with the work titled: "Leaf node polling model analysis in an integrated access and backhaul network".
 ---
