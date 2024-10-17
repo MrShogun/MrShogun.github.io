@@ -51,11 +51,10 @@ design:
           position: center
           parallax: false
 
-sections: 
-  content:
-    button:
-      text: Certificate of Participation
-      url: uploads/ccit-2023-certificate.pdf
+
+button:
+  text: Certificate of Participation
+  url: uploads/ccit-2023-certificate.pdf
 
 #links:
 #  - icon: twitter
