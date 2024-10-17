@@ -338,7 +338,7 @@ awards:
     summary: |
       I got the RUDN University 2024 Best Graduate Award during my Bachelor's degree in Mathematics and Computer Science at Faculty of Science for my academic excellence and successful first research experience.
   - title: Best paper award in ITTMM 2024 conference
-    url: ''
+    url: uploads/ittmm-2024-best-paper-award.pdf
     date: '2024-04-12'
     awarder: RUDN University
     icon: brands/rudn-university
@@ -366,7 +366,7 @@ awards:
     summary: |
       Second prize winner in the R&D competition for the research "Analysis of data transmission delays for a node of a half-duplex integrated access and backhaul network using a polling queueing system".
   - title: Winner's Diploma of the in-person competition of research works of the School of Young Scientists in ITMM 2023 conference
-    url: ''
+    url: uploads/itmm-2023-diploma.pdf
     date: '2023-12-09'
     awarder: Tomsk State University
     icon: brands/tsu
