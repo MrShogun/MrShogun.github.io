@@ -342,11 +342,8 @@ awards:
     date: '2024-04-12'
     awarder: RUDN University
     icon: brands/rudn-university
-    button:
-        text: View Award
-        url: uploads/ittmm-2024-best-paper-award.pdf
     summary: |
-       Best papper award during the 14th International Conference on Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems 2024 (ITTMM 2024), Moscow, Russia, for paper entitled: "Construction of a model of the relay node of the integrated access and backhaul network as a polling system with two queues".
+       Best papper award during the 14th International Conference on Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems 2024 (ITTMM 2024), Moscow, Russia, for paper entitled: "Construction of a model of the relay node of the integrated access and backhaul network as a polling system with two queues" {{% staticref "uploads/ittmm-2024-best-paper-award.pdf" %}}View Award{{% /staticref %}}.
   - title: RUDN-ON 2024 Winner in Informatics
     url: ''
     date: '2024-02-02'
