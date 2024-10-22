@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: Посты
 date: 2022-10-24
 type: landing
 
@@ -22,7 +22,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Недавние посты
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

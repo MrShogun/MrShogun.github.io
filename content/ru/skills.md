@@ -1,5 +1,5 @@
 ---
-title: 'Skills'
+title: Навыки
 date: 2024-10-15
 type: landing
 
@@ -22,12 +22,12 @@ design:
 sections:
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Навыки и Увлечения
       username: admin
     design:
       show_skill_percentage: false
   - block: resume-languages
     content:
-      title: Languages
+      title: Языки
       username: admin
 ---

@@ -1,28 +1,28 @@
 ---
-title: A post on the second week of the project
+title: Пост по второй неделе проекта
 date: 2024-09-30
 ---
 
-## Last week's results: Adding data to the site
+## Итоги прошедшей недели: Добавление данных на сайт
 
-This week I continued work on my academic business card site, adding key information about myself to the site and continuing to fill it with content. The following tasks were completed in the process:
+На этой неделе я продолжил работу над своим академическим сайтом-визиткой, добавив на него ключевую информацию о себе и продолжив наполнение контентом. В процессе были выполнены следующие задачи:
 
-1. **Posting a photo**: 
-   I added a photograph to the home page of the site to make it more personalised and improve the visual experience.
+1. **Размещение фотографии**: 
+   Я добавил фотографию на главную страницу сайта, чтобы сделать его более персонализированным и улучшить визуальное восприятие.
 
-2. **Addition of a brief description (Biography)**: 
-   The site now has a brief description about me, which includes information about my research articles, participation in conferences, and winning competitions and competitions.
+2. **Добавление краткого описания (Biography)**: 
+   На сайте теперь размещено краткое описание обо мне, которое включает информацию о моих научных статьях, участии в конференциях и победах в конкурсах и олимпиадах.
 
-3. **Addition of Interests**: 
-   I have indicated my main interests such as maths, computer science, telecommunications and sports to better reflect my hobbies and professional areas.
+3. **Добавление информации об интересах (Interests)**: 
+   Я указал свои основные интересы, такие как математика, компьютерные науки, телекоммуникации и спорт, чтобы лучше отразить мои увлечения и профессиональные сферы.
 
-4. **Addition of Education (Education)**: 
-   Information about my completed Bachelor's degree in Mathematics and Computer Science has been added to the Education section.
+4. **Добавление информации об образовании (Education)**: 
+   В раздел "Образование" добавлена информация о моем законченном бакалавриате по направлению "Математика и компьютерные науки".
 
-5. **Publishing a post on the first week of the project**: 
-   I wrote a post describing the first steps in creating a website: installing the necessary software, selecting and downloading a template, setting up GitHub Pages, and posting a website preset.
+5. **Публикация поста по первой неделе работы над проектом**: 
+   Я написал пост, в котором описал первые шаги по созданию сайта: установка необходимого ПО, выбор и скачивание шаблона, настройка GitHub Pages и размещение заготовки сайта.
 
-6. **Added a post on Continuous Integration and Continuous Deployment (CI/CD)**: 
-   I also wrote a post explaining the key concepts of CI/CD, their benefits and importance to modern development processes.
+6. **Добавление поста на тему "Непрерывная интеграция и непрерывное развертывание (CI/CD)"**: 
+   Я также написал пост, в котором объяснил ключевые концепции CI/CD, их преимущества и важность для современных разработческих процессов.
 
-The site has thus become a complete business card with basic data about me and initial content. In the coming weeks I plan to further develop it and fill the site with new content.
+Таким образом, сайт стал полноценной визиткой с основными данными обо мне и начальным контентом. В дальнейшие недели я планирую продолжить его развитие и наполнить сайт новыми материалами.

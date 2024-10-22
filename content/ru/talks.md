@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: Конференции
 date: 2022-10-24
 type: landing
 
@@ -22,7 +22,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Прошедшие конференции
       filters:
         folders:
           - event
