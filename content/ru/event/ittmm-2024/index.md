@@ -1,19 +1,19 @@
 ---
-title: ITTMM-2024 Conference participation
+title: Участие в конференции ITTMM-2024
 
-event: The XIV Conference (with international participation) "Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems" (ITTMM 2024)
+event: XIV конференция (с международным участием) "Информационно-телекоммуникационные технологии и математическое моделирование высокотехнологичных систем" (ИТТММВС 2024)
 event_url: https://events.rudn.ru/event/236/
 
-location: RUDN University
+location: РУДН им. Патриса Лумумбы
 address:
-  street: 3, Ordzhonikidze str., Building of Engineering and Science faculties, RUDN University
-  city: Moscow
-  region: Moscow
+  street: Университет РУДН, Здание инженерного и физико-математического факультетов, ул. Орджоникидзе, 3
+  city: Москва
+  region: Москва
   postcode: '115419'
-  country: Russia
+  country: Россия
 
-summary: Participated in an international conference with a report on the results of my research.
-abstract: The Conference is supposed to take place in the scientific areas formed during the previous conferences of the Faculty of Science of RUDN University and its traditional partners in conducting academician scientific events. **Areas of research:** Teletraffic theory and its applications; Next-generation communication networks:management, quality, architecture; Applied information systems; Mathematical modeling and simulation; Distributed high-performance computing and Big-data.
+summary: Участвовал в международной конференции с докладом по результатам проведённых исследований.
+abstract: Конференция пройдет на научных площадках, сформированных в ходе предыдущих конференций Факультета естественных наук Университета RUDN и его традиционных партнеров по проведению академических научных мероприятий. **Направления исследований:** Теория телетрафика и ее приложения; Сети связи нового поколения:управление, качество, архитектура; Прикладные информационные системы; Математическое моделирование и симуляция; Распределенные высокопроизводительные вычисления и Big-data.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -34,7 +34,7 @@ featured: false
 
 image:
   filename: 'ittmm-2024.jpg'
-  caption: 'ITTMM-2024 proceedings cover'
+  caption: 'Обложка сборника трудов ITTMM-2024'
   focal_point: Right
 
 design:

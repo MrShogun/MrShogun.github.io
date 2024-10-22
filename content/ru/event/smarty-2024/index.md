@@ -1,19 +1,19 @@
 ---
-title: SMARTY-2024 Conference participation
+title: Участие в конференции SMARTY-2024
 
-event: The Fourth International Workshop on Stochastic Modeling and Applied Research of Technology (SMARTY 2024)
+event: Четвертый международный семинар по стохастическому моделированию и прикладным исследованиям технологий (SMARTY 2024)
 event_url: http://smarty24.karelia.website/#
 
-location: Karelian Research Center of RAS
+location: Карельский научный центр РАН
 address:
-  street: 11, Pushkinskaya Str.
-  city: Petrozavodsk
-  region: Karelia Republic 
+  street: ул. Пушкинская, 11
+  city: Петрозаводск
+  region: Республика Карелия 
   postcode: '185000'
-  country: Russia
+  country: Россия
 
-summary: Participated in an international conference with a report on the results of my research.
-abstract: SMARTY workshop is an established biannual series of events that aim to bring together researchers working on the theoretical, algorithmic and methodological aspects of queueing theory, stochastic modeling and applied probability, focusing on applications of such methods across a broad spectrum of technical systems with primary interest in high-performance and distributed computing systems and, recently, modern computing trends such as quantum computing. **Key focus:** SMARTY 2024 sets up a working environment to share recent results on 1. stability and performance issues of stochastic models of high-performance and distributed computing systems, as well as other modern technologies; 2. simulation, estimation, and subtle techniques of stochastic modeling and analysis applied to various computing and communication systems.
+summary: Участвовал в международной конференции с докладом по результатам проведённых исследований.
+abstract: Семинар SMARTY - это серия мероприятий, проводимых раз в два года, целью которых является объединение исследователей, работающих над теоретическими, алгоритмическими и методологическими аспектами теории очередей, стохастического моделирования и прикладной вероятности, с упором на применение этих методов в широком спектре технических систем с основным интересом к высокопроизводительным и распределенным вычислительным системам и, в последнее время, к современным трендам в вычислительных системах, таким как квантовые вычисления. **Основные направления:** Семинар SMARTY 2024 создает рабочую среду для обмена последними результатами по 1. вопросам стабильности и производительности стохастических моделей высокопроизводительных и распределенных вычислительных систем, а также других современных технологий; 2. имитационным, оценочным и тонким методам стохастического моделирования и анализа, применяемым к различным вычислительным и коммуникационным системам.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -34,7 +34,7 @@ featured: false
 
 image:
   filename: 'smarty-2024.jpg'
-  caption: 'SMARTY-2024 presentation instance'
+  caption: 'Фрагмент презентации SMARTY-2024'
   focal_point: Right
 
 design:

@@ -1,19 +1,19 @@
 ---
-title: CCIT-2023 Conference participation
+title: Участие в конференции ККИТ-2023
 
-event: The VIII International Scientific Conference "Convergent cognitive-information technologies" (CCIT 2023)
+event: VIII Международная научная конференция «Конвергентные когнитивно-информационные технологии» (ККИТ 2023)
 event_url: http://it-edu.oit.cmc.msu.ru/index.php/convergent/convergent2023
 
-location: Lomonosov Moscow State University
+location: Московский государственный университет имени М.В. Ломоносова
 address:
-  street: CMC faculty, 2nd academic building, building 52, Lomonosov Moscow State University, Leninskie Gory
-  city: Moscow
-  region: Moscow
+  street: Ленинские горы, МГУ имени М.В. Ломоносова, строение 52, 2-й учебный корпус, факультет Вычислительной Математики и Кибернетики
+  city: Москва
+  region: Москва
   postcode: '119991'
-  country: Russia
+  country: Россия
 
-summary: Participated in an international conference with a report on the results of my research.
-abstract: The *International Scientific Conference "Convergent Cognitive-Information Technologies"* is designed to integrate the efforts of scientists and specialists from different countries in order to improve the efficiency of research activities and accelerate the practical development of scientific and technological potential of cognitive-information technologies in science, technology, economics, training of scientific personnel. **Conference Objectives:** 1. to promote scientific research in the field of theoretical computer science, applied mathematics and computer science aimed at developing the scientific foundations of cognitive-information technologies; 2. to promote the development of research and innovation activities in the field of convergent cognitive-information technologies and their applications; 3. to promote the integration of efforts in research activities, as well as in the development of standards in such "hot" areas as the Internet of Things, Big Data, smart cities, technologies of the digital economy.
+summary: Участвовал в международной конференции с докладом по результатам проведённых исследований.
+abstract: Международная научная конференция *«Конвергентные когнитивно-информационные технологии»* предназначена для интеграции усилий ученых и специалистов разных стран с целью повышения эффективности исследовательской деятельности и ускорения практического освоения научного и технологического потенциала когнитивно-информационных технологий в науке, технологиях, экономики, подготовке научных кадров. **Задачи конференции**:1. способствовать научным исследованиям в области теоретической информатики, прикладной математики и компьютерных наук, направленным на развитие научных основ когнитивно-информационных технологий; 2. способствовать развитию научно-исследовательской и инновационной деятельности в области конвергентных когнитивно-информационных технологий и их приложений; 3. способствовать интеграции усилий в исследовательской деятельности, а также в разработке стандартов в таких «горячих» направлениях, как Интернет вещей, Большие данные, умные города, технологии цифровой экономики.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -34,7 +34,7 @@ featured: false
 
 image:
   filename: 'ccit-2023.jpg'
-  caption: 'CCIT-2023 logo'
+  caption: 'Логотип конференции CCIT-2023'
   focal_point: Right
 
 design:

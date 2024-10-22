@@ -1,19 +1,19 @@
 ---
-title: ITMM-2023 Conference participation
+title: Участие в конференции ITMM-2023
 
-event: The 22th International Conference named after A. F. Terpugov Information Technologies And Mathematical Modelling (IТММ – 2023)
-event_url: http://itmmconf.ru/itmm2023
+event: 22-я Международная конференция имени А. Ф. Терпугова "Информационные технологии и математическое моделирование" (ИТММ - 2023)
+event_url: https://itmmconf.tsu.ru/itmm2023
 
-location: Tomsk State University
+location: Томский государственный университет
 address:
-  street: 36, Lenina ave., Institute of Applied Mathematics and Computer Science, Tomsk State University 
-  city: Tomsk
-  region: Tomsk Oblast
+  street: Томский государственный университет, институт прикладной математики и компьютерных наук, пр-т Ленина, 36
+  city: Томск
+  region: Томская область
   postcode: '634050'
-  country: Russia
+  country: Россия
 
-summary: Participated in an international conference with a report on the results of my research.
-abstract: The purpose of the conference is to unite the efforts of Russian and foreign universities, academic and industry research institutes, research centres, interested enterprises and commercial companies to develop and summarise the accumulated experience, identify the most relevant areas of scientific research in the field of information and telecommunication technologies, mathematical modelling, artificial intelligence, digital economy and other important areas of scientific research and scientific and technical development.
+summary: Участвовал в международной конференции с докладом по результатам проведённых исследований.
+abstract: Целью проведения конференции является объединение усилий российских и зарубежных университетов, академических и отраслевых НИИ, научно-исследовательских центров, заинтересованных предприятий и коммерческих компаний по развитию и обобщению накопленного опыта, выявлению наиболее актуальных направлений научных исследований в области информационно-телекоммуникационных технологий, математического моделирования, искусственного интеллекта, цифровой экономики и других важнейших направлений развития научных исследований и научно-технических разработок.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -34,7 +34,7 @@ featured: false
 
 image:
   filename: 'itmm-2023.jpg'
-  caption: 'ITMM-2023 presentation instance'
+  caption: 'Фрагмент презентации ITMM-2023'
   focal_point: Right
 
 design:

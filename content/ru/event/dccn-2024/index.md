@@ -1,19 +1,19 @@
 ---
-title: DCCN-2024 Conference participation
+title: Участие в конференции DCCN-2024
 
-event: The 27th International Conference on Distributed Computer and Communication Networks:Control, Computation, Communications (DCCN 2024)
+event: 27-я Международная конференция по распределенным компьютерным и телекоммуникационным сетям: Управление, вычисления, связь (DCCN 2024)
 event_url: https://dccn.ru/
 
-location: RUDN University
+location: РУДН им. Патриса Лумумбы
 address:
-  street: 3, Ordzhonikidze str., Building of Engineering and Science faculties, RUDN University
-  city: Moscow
-  region: Moscow
+  street: Университет РУДН, Здание инженерного и физико-математического факультетов, ул. Орджоникидзе, 3
+  city: Москва
+  region: Москва
   postcode: '115419'
-  country: Russia
+  country: Россия
 
-summary: Participated in an international conference with a report on the results of my research.
-abstract: The main idea of the conference is to provide a platform and forum for researchers and developers from academia and industry from various countries working in the area of theory and applications of distributed computer and communication networks, mathematical modeling, methods of control and optimization of distributed systems, by offering them a unique opportunity to share their views as well as discuss the prospective developments and pursue collaboration in this area.
+summary: Участвовал в международной конференции с докладом по результатам проведённых исследований.
+abstract: Основная идея конференции - предоставить платформу и форум для исследователей и разработчиков из академических и промышленных кругов разных стран, работающих в области теории и приложений распределенных компьютерных и коммуникационных сетей, математического моделирования, методов управления и оптимизации распределенных систем, предоставив им уникальную возможность поделиться своими взглядами, а также обсудить перспективные разработки и продолжить сотрудничество в этой области.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -34,7 +34,7 @@ featured: false
 
 image:
   filename: 'dccn-2024.jpg'
-  caption: 'DCCN-2024 presentation instance'
+  caption: 'Фрагмент презентации DCCN-2024'
   focal_point: Right
 
 design:

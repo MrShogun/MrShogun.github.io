@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Nikolaev Dmitry
+title: Николаев Дмитрий
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Dmitry
-last_name: Nikolaev
+first_name: Дмитрий
+last_name: Николаев
 
 # Status emoji ☕️ 𝛔
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher
+role: Ученый
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: RUDN University
-    url: https://eng.rudn.ru/
+  - name: РУДН им. Патриса Лумумбы
+    url: https://www.rudn.ru/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -61,177 +61,182 @@ profiles:
     url: https://www.mendeley.com/search/
     label: Mendeley
   - icon: hero/at-symbol
-    url: 'mailto:nikolaev-di@rudn.ru?body={Dear Dmitry Nikolaev! <Your message> Best wishes, Your Name.}'
+    url: 'mailto:nikolaev-di@rudn.ru?body={Здравствуйте, Дмитрий! <Ваше сообщение> С наилучшими пожеланиями, Ваше Имя.}'
     label: Email
 
 interests:
-  - Queueing Theory
-  - Applied Mathematics
-  - Stochastic Modelling
-  - Telecommunications
-  - Operation Research
-  - Artificial Intelligence
+  - Теория Массового Обслуживания
+  - Прикладная Математика
+  - Стохастическое моделирование
+  - Телекоммуникации
+  - Исследование операций
+  - Искусственный интеллект
 
 education:
-  - area: MSc Applied Mathematics and Informatics
-    institution: RUDN University
+  - area: Магистратура "Прикладная математика и информатика"
+    institution: РУДН им. Патриса Лумумбы
     date_start: 2024-09-01
     date_end: ''
     summary: |
-      Study at Department of Probability Theory and Cyber Security of Faculty of Science
+      Обучаюсь на кафедре Теории Вероятностей и Кибербезопасности факультета Физико-Математических и Естественных Наук (ФМиЕН)
 
-      Courses included:
-      - Mathematical Foundations of Information Security
-      - Wireless Networks Modelling
+      Основные предметы:
+      - Математические основы защиты информации и информационной безопасности
+      - Моделирование беспроводных сетей
 
-  - area: BSc Computer Science
-    institution: RUDN University
+  - area: Бакалавриат "Математика и компьютерные науки"
+    institution: РУДН им. Патриса Лумумбы
     date_start: 2020-09-01
     date_end: 2024-06-13
     summary: |
-      Thesis on analysis of boundary Integrated Access and Backhaul network node using polling service models. Supervised by Prof Yuliya Gaidamaka. Presented papers at 4 conferences with the contributions being published in 2 Scopus journals. Studied at Department of Probability Theory and Cyber Security of Faculty of Science 
+      С отличием окончил бакалавриат по направлению: "Математика и компьютерные науки". Диплом посвящен анализу граничного узла сети интегрированного доступа и транзита с использованием моделей поллингового обслуживания. Научный руководитель - профессор Юлия Гайдамака. Представил доклады на 4 конференциях, материалы опубликованы в 2 журналах Scopus. Учился на кафедре Теории Вероятностей и Кибербезопасности факультета Физико-Математических и Естественных Наук.
 
-      GPA: 4.96/5.0
+      Средний балл: 4.96/5.0
       
-      Courses included:
-      - Probability Theory and Mathematical Statistics
-      - Stochastic Analysis
-      - Discrete Mathematics
-      - Queueing Theory
-      - Computer Geometry
-      - Finite Graph Theory
-      - Computing Systems, Networks and Telecommunications
-      - Fundamentals of Mathematical Theory of Teletraffic
-      - Information Security
-      - Mathematical Modelling
+      Основные предметы:
+      - Теория вероятностей и математическая статистика
+      - Стохастический анализ
+      - Дискретная математика
+      - Теория массового обслуживания
+      - Компьютерная геометрия
+      - Теория конечных графов
+      - Вычислительные системы, сети и телекоммуникации
+      - Основы математической теории телетрафика
+      - Информационная безопасность
+      - Математическое моделирование
 
-  - area: Professional retraining "Teacher of Mathematics"
-    institution: RUDN University
+  - area: Профессиональная переподготовка "Учитель математики"
+    institution: РУДН им. Патриса Лумумбы
     date_start: 2024-03-01
     date_end: 2024-06-25
     summary: |
-      Studied under the programme of additional professional education "Teacher of Mathematics" at Interfaculty Centre for Further Professional Education (ICFPE) "Perspektiva" of the Faculty of Science.
+      Обучался по программе дополнительного профессионального образования "Учитель математики" в Межфакультетском центре дополнительного профессионального образования (МЦДПО) "Перспектива" факультета Физико-Математических и Естественных Наук.
 
-      Courses included:
-      - Fundamentals of Education Legislation
-      - Fundamentals of Pedagogy
-      - Theory and methods of education and extracurricular activities
-      - Fundamentals of school psychology
-      - Computer science and programming technology
-      - Life safety
-      - Concepts of development of modern natural science
-      - Fundamentals of school course of mathematics
-      - Methods of teaching mathematics
-      - Pedagogical skills (training)
+      Основные предметы:
+      - Основы законодательства в области образования
+      - Основы педагогики
+      - Теория и методика воспитания и внеурочной деятельности
+      - Основы психологии школьника
+      - Компьютерные науки и технология программирования
+      - Безопасность жизнедеятельности
+      - Концепции развития современного естествознания
+      - Основы школьного курса математики
+      - Методика преподавания математики
+      - Педагогическое мастерство (тренинг)
 
-  - area: Professional retraining "Translator"
-    institution: RUDN University
+  - area: Профессиональная переподготовка "Переводчик"
+    institution: РУДН им. Патриса Лумумбы
     date_start: 2020-09-01
     date_end: 2024-06-30
     summary: |
-      Studied under the programme of additional professional education "Translator" in the areas and specialities of the Faculty of Science (English-Russian) at Department of Foreign Languages of the Faculty of Science.
+      Обучался по программе дополнительного профессионального образования "Переводчик" по направлениям и специальностям факультета Физико-Математических и Естественных Наук (англо-русский) на кафедре Иностранных Языков факультета Физико-Математических и Естественных Наук.
 
-      Courses included:
-      - Practical course of a foreign language
-      - Intercultural communication (in business/scientific professional spheres)
-      - Fundamentals of theory and practice of translation
-      - Theory of translation
-      - Practical course of professionally oriented translation
-      - Info-communication technologies in translation
-      - Translation workshop
-      - Foreign language for special purposes
-      - Translation of texts on speciality
-      - Translation practice
+      Основные предметы:
+      - Практический курс иностранного языка
+      - Межкультурная коммуникация (в деловой/научной профессиональных сферах)
+      - Основы теории и практики перевода
+      - Теория перевода
+      - Практический курс профессионально-ориентированного перевода
+      - Инфокоммуникационные технологии в переводе
+      - Переводческий практикум
+      - Иностранный язык для специальных целей
+      - Перевод текстов по специальности
+      - Переводческая практика
 
 work:
-  - position: Research assistant
-    company_name: RUDN University
-    company_url: https://eng.rudn.ru/
+  - position: Лаборант-исследователь
+    company_name: РУДН им. Патриса Лумумбы
+    company_url: https://www.rudn.ru/
     company_logo: brands/rudn-university
     date_start: 2024-10-01
     date_end: ''
     summary: |
-      Work as an executor under the grant of the Russian Science Foundation № 24-19-00804, https://rscf.ru/project/24-19-00804/, on the theme: "Study of Age of Information in the problems of quality assurance of URLLC and mMTC services in 5G wireless networks" at the Department of Probability Theory and Cyber Security of the Institute of Computer Science and Telecommunications, Faculty of Science.
+      Работал исполнителем по гранту Российского научного фонда № 24-19-00804, https://rscf.ru/project/24-19-00804/, по теме: "Исследование возраста информации в задачах обеспечения качества предоставления услуг URLLC и mMTC в беспроводных сетях 5G" на кафедре Теории Вероятностей и Кибербезопасности института Компьютерных Наук и Телекоммуникаций факультета Физико-Математических и Естественных Наук.
 
-      Responsibilities include:
-      - Writing scientific articles on the subject of the grant
-      - Writing reports on current tasks and documenting activities
-      - Performing numerical analysis and compiling software systems that simulate the functioning of technical systems
-      - Construction of mathematical models, calculation of their characteristics, in particular the age of information, evaluation and optimisation of the functioning of real telecommunication systems on the basis of the obtained metrics
-      - Presentations at national and international conferences
-  - position: Research assistant
-    company_name: RUDN University
-    company_url: https://eng.rudn.ru/
+      Обязанности:
+      - Написание научных статей по теме гранта;
+      - Написание отчётов по текущим задачам и документационное обеспечение 
+      деятельности;
+      - Выполнение численного анализа и составление программных комплексов, 
+      моделирующих функционирование технических систем;
+      - Построение математических моделей, вычисление их характеристик, в частности возраста информации, оценка и оптимизация функционирования реальных систем телекоммуникаций на основе полученных метрик
+      - Выступление с докладами на всероссийских и международных конференциях
+  - position: Лаборант-исследователь
+    company_name: РУДН им. Патриса Лумумбы
+    company_url: https://www.rudn.ru/
     company_logo: brands/rudn-university
     date_start: 2023-10-19
     date_end: 2024-10-01
     summary: |
-      Worked as an executor under the grant of the Russian Science Foundation № 23-79-10084, https://rscf.ru/project/23-79-10084/, on the theme: "Mathematical models and practical algorithms for improving energy efficiency in heterogeneous millimetre and terahertz networks of the fifth and sixth generation (5G/6G)" at the Department of Probability Theory and Cyber Security of the Institute of Computer Science and Telecommunications, Faculty of Science.
+      Работал исполнителем по гранту Российского научного фонда № 23-79-10084, https://rscf.ru/project/23-79-10084/, по теме: "Математические модели и практические алгоритмы повышения энергоэффективности в гетерогенных миллиметровых и терагерцевых сетях пятого и шестого поколения (5G/6G)" на кафедре Теории Вероятностей и Кибербезопасности института Компьютерных Наук и Телекоммуникаций факультета Физико-Математических и Естественных Наук.
 
-      Responsibilities include:
-      - Writing scientific articles on the subject of the grant
-      - Writing reports on current tasks and documenting activities
-      - Performing numerical analysis and compiling software systems that simulate the functioning of technical systems
-      - Constructing mathematical models and verifying the degree of their compliance with the real system
-      - Presentations at national and international conferences
-  - position: Research assistant
-    company_name: RUDN University
-    company_url: https://eng.rudn.ru/
+      Обязанности:
+      - Написание научных статей по теме гранта;
+      - Написание отчётов по текущим задачам и документационное обеспечение 
+      деятельности;
+      - Выполнение численного анализа и составление программных комплексов, 
+      моделирующих функционирование технических систем;
+      - Построение математических моделей и проверка степени их соответствия 
+      реальной системе
+      - Выступление с докладами на всероссийских и международных конференциях
+  - position: Лаборант исследователь
+    company_name: РУДН им. Патриса Лумумбы
+    company_url: https://www.rudn.ru/
     company_logo: brands/rudn-university
     date_start: 2024-07-29
-    date_end: 2024-10-01
+    date_end: 2024-10-31
     summary: |
-      Worked part-time as a laboratory researcher at the Department of Probability Theory and Cyber Security of the Institute of Computer Science and Telecommunications, Faculty Science.
+      Работал по совместительству лаборантом-исследователем на кафедре Теории Вероятностей и Кибербезопасности института Компьютерных Наук и Телекоммуникаций факультета Физико-Математических и Естественных Наук.
 
-      Responsibilities include:
-      - Writing scientific articles
-      - Presentations at national and international conferences
+      Обязанности:
+      - Написание научных статей
+      - Выступление с докладами на всероссийских и международных конференциях
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Academic Skills
+  - name: Академические навыки
     items:
-      - name: Mathematical modelling
-        description: Creation and research of network models. Development of mathematical models of teletraffic and queueing systems
+      - name: Математическое моделирование
+        description: Создание и исследование сетевых моделей. Разработка математических моделей телетрафика и систем массового обслуживания
         percent: 90
         icon: brands/infinity
-      - name: Probability theory
-        description: Queueing theory, Stochastic processes, Markov processes
+      - name: Теория вероятностей
+        description: Теория массового обслуживания, стохастические процессы, марковские процессы
         percent: 80
         icon: brands/probability
-      - name: Computer Science
-        description: In-depth knowledge of information technology and telecommunications. 
+      - name: Компьютерные науки
+        description: Глубокие знания в области информационных технологий и телекоммуникаций. 
         percent: 70
         icon: brands/laptop-code-solid
-      - name: Computer simulation
-        description: Using models to simulate and evaluate the performance of telecommunication networks.
+      - name: Компьютерное моделирование
+        description: Использование моделей для моделирования и оценки производительности телекоммуникационных сетей.
         percent: 60
         icon: brands/computer-simulation
-      - name: Academic writing
-        description: Writing articles and reports for international conferences and publications.
+      - name: Академическое письмо
+        description: Написание статей и докладов для международных конференций и публикаций.
         percent: 90
         icon: brands/academic-writing
-      - name: Research
-        description: Gathering and analyzing information from various sources to acquire new insights and solve specific problems.
+      - name: Исследование
+        description: Сбор и анализ информации из различных источников для получения новых знаний и решения конкретных задач.
         percent: 90
         icon: brands/research
-      - name: Data analysis
-        description: Handling large datasets, using mathematical and statistical methods to identify patterns, trends, and draw conclusions.
+      - name: Анализ данных
+        description: Работа с большими массивами данных, использование математических и статистических методов для выявления закономерностей и тенденций.
         percent: 90
         icon: brands/data-analysis
-      - name: Object-oriented programming
-        description: Сreating flexible and scalable software structures based on classes and objects.
+      - name: Объектно-ориентированное программирование
+        description: Создание гибких и масштабируемых программных структур на основе классов и объектов.
         percent: 75
         icon: brands/oop
-  - name: Technical Skills
+  - name: Технические навыки
     items:
-      - name: Data visualisation
-        description: Presenting data in graphical and visual forms to enhance understanding and interpretation.
+      - name: Визуализация данных
+        description: Представление данных в графической и визуальной форме для улучшения понимания и точности интерпретации.
         percent: 90
         icon: brands/data-visualisation
-      - name: Reporting
-        description: Structuring analysis and research results into clear and detailed reports, tailored to the target audience.
+      - name: Написание отчетов
+        description: Структурирование результатов анализа и исследований в четкие и подробные отчеты, ориентированные на целевую аудиторию.
         percent: 90
         icon: brands/reporting
       - name: Julia
@@ -239,7 +244,7 @@ skills:
         percent: 60
         icon: devicon/julia
       - name: LaTeX
-        description: Formatting scientific articles, reports, and presentations of high mathematical complexity.
+        description: Форматирование научных статей, отчетов и презентаций с математическими обозначениями высокой сложности.
         percent: 70
         icon: devicon/latex
       - name: Python
@@ -247,82 +252,82 @@ skills:
         percent: 50
         icon: python
       - name: C++
-        description: Proficiency allows for developing basic programs and algorithms.
+        description: Разработка базовых программ и алгоритмов.
         percent: 25
         icon: devicon/cplusplus
       - name: Java
-        description: Proficiency enables work on basic projects and architectural design studies.
+        description: Знания позволяют работать над базовыми проектами и архитектурой простых приложений.
         percent: 25
         icon: devicon/java
       - name: SQL
-        description: Proficiency enables writing queries, managing data, and performing analytical tasks.
+        description: Умение составлять запросы, управлять данными и выполнять аналитические задачи.
         percent: 50
         icon: circle-stack
-  - name: Soft skills
+  - name: Надпрофессиональные навыки
     items:
-      - name: Writing and communication
-        description: Clearly and effectively express ideas in written and verbal form to audiences with varying levels of expertise.
+      - name: Письмо и общение
+        description: Четко и эффективно выражаю идеи в письменной и устной форме для аудиторий с разным уровнем знаний.
         percent: 90
         icon: hero/chat-bubble-left-right
-      - name: Analytical and critical thinking
-        description: Analyzing complex data, identify patterns, critically evaluating information and methodologies, and draw well-founded conclusions.
+      - name: Аналитическое и критическое мышление
+        description: Анализирую сложные данные, выявляю закономерности, критически оцениваю информацию и методологии и делаю обоснованные выводы.
         percent: 90
         icon: brands/critical-thinking
-      - name: Organisation and time management
-        description: Proficient in planning tasks, prioritizing activities, and managing time effectively to meet deadlines.
+      - name: Организованность и управление временем
+        description: Умение планировать задачи, расставлять приоритеты и эффективно распоряжаться временем для соблюдения сроков.
         percent: 50
         icon: brands/time-management
-      - name: Collaboration and teamwork
-        description: Working within teams, respecting diverse opinions, and actively contributing to the achievement of common goals.
+      - name: Сотрудничество и работа в команде
+        description: Работа в команде, уважение к различным мнениям и активный вклад в достижение общих целей.
         percent: 60
         icon: brands/teamwork
-      - name: Adaptability and flexibility
-        description: Quickly adapt to new conditions, tasks, adjusting approaches to achieve better outcomes, and changes in the work environment.
+      - name: Адаптивность и гибкость
+        description: Быстро адаптируюсь к новым условиям, задачам, корректирую свои подходы для достижения лучших результатов и изменений в рабочей среде.
         percent: 75
         icon: brands/adaptation
-      - name: Problem-solving
-        description: Proficient in solving complex and non-standard problems, developing practical solutions for various challenges.
+      - name: Решение задач
+        description: Умение решать сложные и нестандартные задачи, разрабатывать практические решения для различных проблем.
         percent: 80
         icon: brands/problem-solving
-      - name: Attention to detail
-        description: Noticing small details that can impact outcomes, ensuring high-quality task execution.
+      - name: Внимание к деталям
+        description: Замечаю мелкие детали, которые могут сильно повлиять на результат, обеспечивая качественное выполнение задач.
         percent: 75
         icon: brands/attention
-  - name: Hobbies
+  - name: Увлечения
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Karate
-        description: Karate helps me enhance self-control, teaches resilience and endurance. Multiple medallist in various martial arts competitions, including world and Russian championships.
+      - name: Карате
+        description: Каратэ помогает мне повысить самоконтроль, учит стойкости и выносливости. Многократный призер различных соревнований по боевым искусствам (сито-рю), в том числе чемпионатов мира и России.
         percent: 90
         icon: devicon/karatelabs
-      - name: Sports
-        description: Sports, in general, help me maintain a healthy balance between mental and physical activity. 
+      - name: Спорт
+        description: Спорт в целом помогает мне поддерживать здоровый баланс между умственной и физической активностью. 
         percent: 95
         icon: brands/sport
-      - name: Travelling
-        description: Traveling broadens my worldview and enhances flexibility in thinking, which positively impacts my creative and scientific approach.
+      - name: Путешествия
+        description: Путешествия расширяют мое мировоззрение и повышают гибкость мышления, что положительно сказывается на моем творческом и научном потенциале.
         percent: 85
         icon: brands/travelling
-      - name: Education
-        description: Education is a source of continuous self-improvement, both professional and personal
+      - name: Образование
+        description: Образование - это источник постоянного самосовершенствования, как профессионального, так и личного
         percent: 80
         icon: brands/education
-      - name: Languages
-        description: Learning languages motivates me to broaden my cultural and professional horizons.
+      - name: Языки
+        description: Изучение языков мотивирует меня расширять свои познания о культурах других народов и развивать профессиональные компетенции.
         percent: 60
         icon: hero/language
-      - name: Science
-        description: I find inspiration in scientific research and strive to explore unknown areas and create new knowledge that will help address global challenges.
+      - name: Наука
+        description: Я нахожу вдохновение в исследовании мира и стремлюсь изучать неизвестные области и производить новое знание, которое поможет решить глобальные проблемы.
         percent: 80
         icon: hero/beaker
 
 languages:
-  - name: Russian
+  - name: Русский
     percent: 100
-  - name: English
+  - name: Английский
     percent: 90
-  - name: French
+  - name: Французский
     percent: 7.5
 
 # Awards.
@@ -330,50 +335,50 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Graduate Award 2024
+  - title: Награда "Лучший выпускник РУДН 2024"
     url: https://prom-2024.rudn.ru/fmien/nikolaev-d.html
     date: '2024-06-30'
-    awarder: RUDN University
+    awarder: РУДН им. Патриса Лумумбы
     icon: "brands/rudn-university"
     summary: |
-      I got the RUDN University 2024 Best Graduate Award during my Bachelor's degree in Mathematics and Computer Science at Faculty of Science for my academic excellence and successful first research experience.
-  - title: Best paper award in ITTMM 2024 conference
+      Я получил награду "Лучший выпускник РУДН 2024" во время обучения в бакалавриате по специальности "Математика и компьютерные науки" на факультете естественных наук за отличную учебу и успешные первые исследовательские шаги.
+  - title: Награда за лучший доклад на конференции ITTMM 2024
     url: ''
     date: '2024-04-12'
-    awarder: RUDN University
+    awarder: РУДН им. Патриса Лумумбы
     icon: brands/rudn-university
     summary: |
-       Best papper award during the 14th International Conference on Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems 2024 (ITTMM 2024), Moscow, Russia, for paper entitled: "Construction of a model of the relay node of the integrated access and backhaul network as a polling system with two queues".
-  - title: RUDN-ON 2024 Winner in Informatics
+      Награда за лучший доклад на 14-й Международной конференции "Информационно-Телекоммуникационные Технологии и Математическое Моделирование Высокотехнологичных Систем 2024" (ИТТММВС 2024), Москва, Россия, за доклад "Построение модели ретрансляционного узла сети интегрированного доступа и транзита в виде системы поллинга".
+  - title: RUDN-ON 2024 Победитель в предметной области "Информатика"
     url: ''
     date: '2024-02-02'
-    awarder: RUDN University
+    awarder: РУДН им. Патриса Лумумбы
     icon: brands/rudn-university
     summary: |
-      Winner of the RUDN-ON 2024 Universiade in the Informatics subject area. Obtained a winner's diploma.
-  - title: RUDN-ON 2024 Prize-Winner in Linguistics
+      Победитель Универсиады RUDN-ON 2024 в предметной области "Информатика". Получил диплом победителя.
+  - title: RUDN-ON 2024 Призер в предметной области "Лингвистика"
     url: ''
     date: '2024-02-02'
-    awarder: RUDN University
+    awarder: РУДН им. Патриса Лумумбы
     icon: brands/rudn-university
     summary: |
-      Prize-Winner of the RUDN-ON 2024 Universiade in the subject area "Linguistics: Translation and Translation Studies". Obtained a prize-winner diploma.
-  - title: II degree diploma in the R&D competition
+      Призер Универсиады RUDN-ON 2024 в предметной области "Лингвистика: Перевод и переводоведение". Получил диплом призера.
+  - title: Диплом II степени в конкурсе НИР
     url: ''
     date: '2024-02-15'
-    awarder: RUDN University
+    awarder: РУДН им. Патриса Лумумбы
     icon: brands/rudn-university
     summary: |
-      Second prize winner in the R&D competition for the research "Analysis of data transmission delays for a node of a half-duplex integrated access and backhaul network using a polling queueing system".
-  - title: Winner's Diploma of the in-person competition of research works of the School of Young Scientists in ITMM 2023 conference
+      Второе место в конкурсе НИОКР за исследование "Анализ задержек передачи данных для узла полудуплексной сети интегрированного доступа и транзита с помощью поллинговой системы массового обслуживания".
+  - title: Диплом победителя очного конкурса научно-исследовательских работ Школы молодых ученых на конференции ИТММ 2023
     url: https://itmmconf.tsu.ru/sites/default/files/Certificates/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf
     date: '2023-12-09'
-    awarder: Tomsk State University
+    awarder: Томский Государственный Университет
     icon: brands/tsu
     summary: |
-       Winner of the diploma of the in-person competition of research works of the School of Young Scientists within the framework of the International Conference Information Technology and Mathematical Modelling 2023 (ITMM 23) named after A. F. Terpugov with the work titled: "Leaf node polling model analysis in an integrated access and backhaul network".
+      Диплом победителя очного конкурса научно-исследовательских работ Школы молодых ученых в рамках Международной конференции Информационные Технологии и Математическое Моделирование (ИТММ’23) имени А. Ф. Терпугова с работой: Модель узла IAB в виде поллинговой системы с двумя очередями".
 ---
 
 ## About Me
 
-Dmitry Nikolaev is an author of 7 scientific articles, of which 2 are published in Scopus journals, 1 --- HAC, and 4 --- RSCI (conference materials). He is also a participant of 5 All-Russian conferences with international participation and 1 international congress. His research interests include queueing theory, mathematical theory of teletrafic and applied probability theory. 
+Дмитрий Николаев является автором 7 научных статей, из которых 2 опубликованы в журналах Scopus, 1 --- ВАК и 4 --- RSCI (материалы конференций). Он также является участником 5 всероссийских конференций с международным участием и 1 международного конгресса. Область научных интересов --- теория массового обслуживания, математическая теория телетрафика и прикладная теория вероятностей.

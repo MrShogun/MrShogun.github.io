@@ -1,19 +1,19 @@
 ---
-title: ICAM-2024 Conference participation
+title: Участие в конференции ICAM-2024
 
-event: The XV International Conference Computer-Aided Technologies in Applied Mathematics (ICAM 2024)
-event_url: https://icam.tsu.ru/?setlang=en
+event: XV Международная Конференция Новые Информационные Технологии в Исследовании Сложных Структур (ICAM 2024)
+event_url: https://icam.tsu.ru/?setlang=ru
 
-location: Park Hotel Aya
+location: Парк-отель Ая
 address:
-  street: Lake Aya, village Katun
-  city: Altai district
-  region: Altai Krai
+  street: Озеро Ая, село Катунь
+  city: Алтайский район
+  region: Алтайский край
   postcode: '659635'
-  country: Russia
+  country: Россия
 
-summary: Participated in an international conference with a report on the results of my research.
-abstract: The conference is devoted to applied and fundamental aspects of computer science. The purpose of the conference is to exchange the results of scientific research on the creation and application of computer scince in various spheres of human activity, including computing and telecommunications, education, environmental protection, health care, artificial intelligence, discrete event systems and management.
+summary: Участвовал в международной конференции с докладом по результатам проведённых исследований.
+abstract: Конференция посвящена прикладным и фундаментальным аспектам информатики, кибернетики и информационных технологий. Цель конференции: обмен результатами научных исследований по созданию и применению автоматизированных и информационных технологий в различных сферах человеческой деятельности, включая вычислительные и телекоммуникационные системы, образование, охрану окружающей среды, здравоохранение, системы искусственного интеллекта, исследование дискретных структур и управление.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -34,7 +34,7 @@ featured: false
 
 image:
   filename: 'icam-2024.jpg'
-  caption: 'ICAM-2024 presentation instance'
+  caption: 'Фрагмент презентации ICAM-2024'
   focal_point: Right
 
 design:
