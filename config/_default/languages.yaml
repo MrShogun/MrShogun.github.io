@@ -12,7 +12,29 @@ en:
 ru:
   languageCode: ru
   contentDir: content/ru
-  title: Николаев Дмитрий...
+  title: Николаев Дмитрий
+  main:
+  - name: Биография
+    url: /
+    weight: 10
+  - name: Публикации
+    url: publications/
+    weight: 20
+  - name: Конференции
+    url: talks/
+    weight: 30
+  - name: Посты
+    url: news/
+    weight: 40
+  - name: Опыт
+    url: experience/
+    weight: 50
+  - name: Навыки
+    url: skills/
+    weight: 60
+  - name: Награды
+    url: awards/
+    weight: 70
 #  params:
 #    description: Site description in Chinese...
 #  menu:
