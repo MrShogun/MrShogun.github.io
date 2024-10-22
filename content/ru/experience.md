@@ -1,6 +1,6 @@
 ---
 title: Опыт
-date: 2024-10
+date: 2024-10-12
 type: landing
 
 design:
