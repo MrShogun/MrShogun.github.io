@@ -1,5 +1,5 @@
 ---
-title: 'Skills'
+title: Награды
 date: 2024-10
 type: landing
 

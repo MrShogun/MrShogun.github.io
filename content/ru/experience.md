@@ -1,6 +1,6 @@
 ---
-title: 'Experience'
-date: 2024-10-15
+title: Опыт
+date: 2024-10
 type: landing
 
 design:
