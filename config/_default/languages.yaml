@@ -14,7 +14,7 @@ ru:
   contentDir: content/ru
   title: Николаев Дмитрий
   main:
-    - name: Биография
+    - name: "Биография"
       url: /
       weight: 10
     - name: Публикации
