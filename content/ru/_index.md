@@ -26,18 +26,16 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Скачать резюме
         url: uploads/resume.pdf
     design:
       css_class: dark
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 О моих исследованиях'
       subtitle: ''
       text: |-
-        I focus on applied mathematics and telecommunications, particularly in the areas of queueing theory, stochastic modeling, and teletraffic systems. My work includes developing mathematical models for analyzing network performance, optimizing system processes, and solving real-world telecommunication challenges. I actively collaborate with other researchers and participate in international conferences to present findings and share insights.
-
-        Feel free to reach out for collaborations or discussions on mathematical theory applications and system optimization.
+        Я специализируюсь на прикладной математике и телекоммуникациях, в частности, в области теории массового обслуживания, стохастического моделирования и математической теории телетрафика. Моя работа включает разработку математических моделей для анализа производительности сетей, оптимизации системных процессов и решения реальных телекоммуникационных задач. Я активно сотрудничаю с другими исследователями и участвую в международных конференциях, чтобы представить результаты и поделиться своими идеями.
     design:
       columns: '1'
   - block: cta-card

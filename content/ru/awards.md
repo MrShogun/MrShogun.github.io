@@ -1,6 +1,6 @@
 ---
 title: 'Skills'
-date: 2024-10-15
+date: 2024-10
 type: landing
 
 design:
@@ -22,6 +22,6 @@ design:
 sections:
   - block: resume-awards
     content:
-      title: Awards
+      title: Награды
       username: admin
 ---
