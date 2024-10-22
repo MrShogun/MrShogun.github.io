@@ -14,28 +14,53 @@ ru:
   contentDir: content/ru
   title: Николаев Дмитрий
   main:
-  - name: Биография
-    url: /
-    weight: 10
-  - name: Публикации
-    url: publications/
-    weight: 20
-  - name: Конференции
-    url: talks/
-    weight: 30
-  - name: Посты
-    url: news/
-    weight: 40
-  - name: Опыт
-    url: experience/
-    weight: 50
-  - name: Навыки
-    url: skills/
-    weight: 60
-  - name: Награды
-    url: awards/
-    weight: 70
-#  params:
+    - name: Биография
+      url: /
+      weight: 10
+    - name: Публикации
+      url: publications/
+      weight: 20
+    - name: Конференции
+      url: talks/
+      weight: 30
+    - name: Посты
+      url: news/
+      weight: 40
+    - name: Опыт
+      url: experience/
+      weight: 50
+    - name: Навыки
+      url: skills/
+      weight: 60
+    - name: Награды
+      url: awards/
+      weight: 70
+  params:
+    # Site header
+    header:
+      navbar:
+        enable: true
+        blox: "navbar"
+        fixed_to_top: true
+        show_search: true
+        show_theme_chooser: true
+        logo:
+          text: "Николаев Дмитрий"
+
+    # Site footer
+    footer:
+      copyright:
+        notice: '© {year} Me. This work is licensed under {license}'
+        license:
+          enable: true
+          allow_derivatives: false
+          share_alike: true
+          allow_commercial: false
+
+    # Localization
+    locale:
+      date_format: '2 января, 2006'
+      time_format: '15:04'
 #    description: Site description in Chinese...
 #  menu:
 #    main:
