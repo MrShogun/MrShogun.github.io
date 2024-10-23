@@ -7,32 +7,6 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
-  # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-  #     desired widget in your `content/home/` folder.
-  #   The weight parameter defines the order that the links will appear in.
-  main:
-    - name: Bio
-      url: /
-      weight: 10
-    - name: Publications
-      url: publications/
-      weight: 20
-    - name: Talks
-      url: talks/
-      weight: 30
-    - name: News
-      url: news/
-      weight: 40
-    - name: Experience
-      url: experience/
-      weight: 50
-    - name: Skills
-      url: skills/
-      weight: 60
-    - name: Awards
-      url: awards/
-      weight: 70
     #- name: Projects
     #  url: projects/
     #  weight: 30
@@ -46,28 +20,6 @@ ru:
   languageCode: ru
   contentDir: content/ru
   title: Николаев Дмитрий
-  main:
-    - name: Биография
-      url: /
-      weight: 10
-    - name: Публикации
-      url: publications/
-      weight: 20
-    - name: Конференции
-      url: talks/
-      weight: 30
-    - name: Посты
-      url: news/
-      weight: 40
-    - name: Опыт
-      url: experience/
-      weight: 50
-    - name: Навыки
-      url: skills/
-      weight: 60
-    - name: Награды
-      url: awards/
-      weight: 70
   params:
     # Site header
     header:
