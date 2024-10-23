@@ -21,8 +21,9 @@ design:
 # Page sections
 sections:
   - block: resume-experience
+    id: experience
     content:
-      username: admin
+      #username: admin
       title: Опыт
     design:
       # Hugo date format
