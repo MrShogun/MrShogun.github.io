@@ -1,7 +1,7 @@
 ---
 title: ITMM-2023 Conference participation
 
-event: The 22th International Conference named after A. F. Terpugov Information Technologies And Mathematical Modelling (IТММ – 2023)
+event: The 22nd International Conference named after A. F. Terpugov Information Technologies And Mathematical Modelling (IТММ – 2023)
 event_url: http://itmmconf.ru/itmm2023
 
 location: Tomsk State University

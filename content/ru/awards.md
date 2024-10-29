@@ -9,7 +9,7 @@ design:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: lavender-acrylic-swirl-marble-twist-texture-background.svg
+          filename: digital-technology-background-vector-with-hexagon-border-dark-purple-tone.svg
           filters:
             brightness: 1.0
           size: cover

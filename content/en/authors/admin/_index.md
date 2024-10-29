@@ -330,6 +330,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: 1st degree diploma of the in-person competition of research works of the School of Young Scientists at the ITMM 2024 conference
+    url: https://drive.google.com/drive/folders/1H3ClhxqT7NTHgYjF1sBxOu9xTX8qONLt
+    date: '2024-10-25'
+    awarder: Tomsk State University
+    icon: brands/tsu
+    summary: |
+       Diploma of the 1st degree of the in-person competition of research works of the School of Young Scientists within the framework of the International Conference Information Technologies and Mathematical Modelling (ITMM'24) named after A.F. Terpugov with the work: "Analysis of the time characteristics of a polling system with two queues and state-dependent Poisson input flows".
   - title: Best Graduate Award 2024
     url: https://prom-2024.rudn.ru/fmien/nikolaev-d.html
     date: '2024-06-30'
