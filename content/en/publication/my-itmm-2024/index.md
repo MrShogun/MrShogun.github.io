@@ -3,7 +3,7 @@ title: Анализ временных характеристик поллинг
 authors:
 - Д. И. Николаев
 - Ю. В. Гайдамака
-date: '2023-01-01'
+date: '2024-01-01'
 publishDate: '2024-09-06T20:39:00.892307Z'
 publication_types:
 - paper-conference
