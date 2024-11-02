@@ -43,7 +43,7 @@ profiles:
     url: https://www.webofscience.com/wos/author/record/LEM-8084-2024
     label: WoS ResearcherID
   - icon: academicons/obp
-    url: https://elibrary.ru/project_user_office.asp
+    url: https://elibrary.ru/author_items.asp?authorid=1263795
     label: eLIBRARY
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Dmitry-Nikolaev-13
@@ -383,4 +383,4 @@ awards:
 
 ## About Me
 
-Dmitry Nikolaev is an author of 7 scientific articles, of which 2 are published in Scopus journals, 1 --- HAC, and 4 --- RSCI (conference materials). He is also a participant of 5 All-Russian conferences with international participation and 1 international congress. His research interests include queueing theory, mathematical theory of teletrafic and applied probability theory. 
+Dmitry Nikolaev is an author of 8 scientific articles, of which 2 are published in Scopus journals, 1 --- HAC, and 5 --- RSCI (conference materials). He is also a participant of 5 International conferences, 2 All-Russian conferences with international participation and 1 international congress. His research interests include queueing theory, mathematical theory of teletrafic and applied probability theory. 
