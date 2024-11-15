@@ -383,4 +383,4 @@ awards:
 
 ## About Me
 
-Dmitry Nikolaev is an author of 8 scientific articles, of which 2 are published in Scopus journals, 1 --- HAC, and 5 --- RSCI (conference materials). He is also a participant of 5 International conferences, 2 All-Russian conferences with international participation and 1 international congress. His research interests include queueing theory, mathematical theory of teletrafic and applied probability theory. 
+Dmitry Nikolaev is an author of 10 scientific articles, of which 2 are published in Scopus journals, 1 --- HAC, and 7 --- RSCI (conference materials). He is also a participant of 5 International conferences, 3 All-Russian conferences with international participation and 1 international congress. His research interests include queueing theory, mathematical theory of teletrafic and applied probability theory. 

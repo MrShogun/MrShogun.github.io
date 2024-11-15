@@ -38,6 +38,11 @@ links:
     title: Academia
     icon: academicons/academia
     enable: true
+  - id: elibrary
+    url: 'https://elibrary.ru/author_items.asp?authorid=1263795'
+    title: eLIBRARY
+    icon: academicons/obp
+    enable: true
   - id: researchgate
     url: 'https://www.researchgate.net/profile/Dmitry-Nikolaev-13'
     title: Research Gate
