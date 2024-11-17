@@ -1,7 +1,7 @@
 ---
 title: ITMM-2024 Conference participation
 
-event: The 23rd International Conference named after A. F. Terpugov Information Technologies And Mathematical Modelling (IТММ – 2023)
+event: The 23rd International Conference named after A. F. Terpugov Information Technologies And Mathematical Modelling (IТММ – 2024)
 event_url: http://itmmconf.ru/
 
 location: Karshi State University
