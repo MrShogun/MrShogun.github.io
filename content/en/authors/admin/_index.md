@@ -330,6 +330,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Certificate of participation in the competition of graduate qualification works "Be First!" 2024
+    url: ''
+    date: '2024-12-05'
+    awarder: University Library ONLINE
+    icon: brands/rudn-university
+    summary: |
+      Certificate of participation in the IX All-Russian competition of graduate qualification works "Be First!" 2024 in the direction of "Computer and Information Technologies" for the competitive work (bachelor's thesis): "Analysis of the Integrated Access and Backhaul network boundary node model".
   - title: 1st degree diploma of the in-person competition of research works of the School of Young Scientists at the ITMM 2024 conference
     url: https://drive.google.com/drive/folders/1H3ClhxqT7NTHgYjF1sBxOu9xTX8qONLt
     date: '2024-10-25'
